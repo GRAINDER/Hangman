@@ -2,8 +2,10 @@
 Fun Hangman game
 
 Hangman is a classic word-guessing game where the player tries to guess a hidden word by suggesting letters one by one. The game has a limited number of attempts, and for each incorrect guess, a part of the hangman is drawn on the gallows. The objective is to guess the word before the hangman is fully drawn, or else the player loses the game.
+
 How It Works
-Game Rules
+
+# Game Rules
 
     1. The game randomly selects a word from a predefined list of words. The word to be guessed is represented by underscores, one for each letter in the word.
 
@@ -19,7 +21,7 @@ Game Rules
 
 
 
-Example Gameplay
+# Example Gameplay
 
 Welcome to Hangman!
 
@@ -41,7 +43,7 @@ Guess a letter or the entire word: programming
 Congratulations! You guessed the word correctly!
 
 
-Setup
+# Setup
 
 To play the Hangman game:
 
@@ -56,7 +58,7 @@ python hangman.py
 1. The game will start, and you can begin guessing the letters or the entire word.. 
 
 
-Requirements
+# Requirements
 
 The Hangman game is written in Python and uses built-in modules. No external packages are required.
 Customization

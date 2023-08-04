@@ -1,0 +1,710 @@
+31/07/2023 19:14:41 - root - INFO - Incorrect guess.
+31/07/2023 19:14:41 - root - INFO - Attempts left: 19
+31/07/2023 19:14:41 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:14:48 - root - INFO - Incorrect guess.
+31/07/2023 19:14:48 - root - INFO - Attempts left: 19
+31/07/2023 19:14:48 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:16:56 - root - ERROR - An unexpected error occurred: name 'word_set' is not defined
+31/07/2023 19:17:48 - root - INFO - Correct guess!
+31/07/2023 19:17:48 - root - INFO - Attempts left: 20
+31/07/2023 19:17:48 - root - INFO - _ _ a _ _
+31/07/2023 19:17:50 - root - INFO - Incorrect guess.
+31/07/2023 19:17:50 - root - INFO - Attempts left: 19
+31/07/2023 19:17:50 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:21:27 - root - INFO - Incorrect guess.
+31/07/2023 19:21:27 - root - INFO - Attempts left: 19
+31/07/2023 19:21:27 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:21:46 - root - INFO - Correct guess!
+31/07/2023 19:21:46 - root - INFO - Attempts left: 20
+31/07/2023 19:21:46 - root - INFO - _ _ b _ _ _
+31/07/2023 19:21:47 - root - INFO - Incorrect guess.
+31/07/2023 19:21:47 - root - INFO - Attempts left: 19
+31/07/2023 19:21:47 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:25:47 - root - INFO - Correct guess!
+31/07/2023 19:25:47 - root - INFO - Attempts left: 20
+31/07/2023 19:25:47 - root - INFO - _ _ _ _ a _ _
+31/07/2023 19:26:11 - root - INFO - Incorrect guess.
+31/07/2023 19:26:11 - root - INFO - Attempts left: 19
+31/07/2023 19:26:11 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:26:17 - root - INFO - Correct guess!
+31/07/2023 19:26:17 - root - INFO - Attempts left: 20
+31/07/2023 19:26:18 - root - INFO - _ a _ _
+31/07/2023 19:26:19 - root - INFO - Incorrect guess.
+31/07/2023 19:26:19 - root - INFO - Attempts left: 19
+31/07/2023 19:26:19 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:36:14 - root - INFO - Incorrect guess.
+31/07/2023 19:36:14 - root - INFO - Attempts left: 19
+31/07/2023 19:36:14 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:36:32 - root - INFO - Incorrect guess.
+31/07/2023 19:36:32 - root - INFO - Attempts left: 19
+31/07/2023 19:36:32 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:37:47 - root - INFO - Correct guess!
+31/07/2023 19:37:47 - root - INFO - Attempts left: 20
+31/07/2023 19:37:47 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 19:37:50 - root - INFO - Incorrect guess.
+31/07/2023 19:37:50 - root - INFO - Attempts left: 19
+31/07/2023 19:37:50 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:41:54 - root - INFO - Correct guess!
+31/07/2023 19:41:54 - root - INFO - Attempts left: 20
+31/07/2023 19:41:54 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 19:41:55 - root - INFO - Incorrect guess.
+31/07/2023 19:41:55 - root - INFO - Attempts left: 19
+31/07/2023 19:41:55 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:42:24 - root - INFO - Incorrect guess.
+31/07/2023 19:42:24 - root - INFO - Attempts left: 19
+31/07/2023 19:42:24 - root - INFO - _ _ _ _ _ _ _ _
+31/07/2023 19:42:25 - root - INFO - Incorrect guess.
+31/07/2023 19:42:25 - root - INFO - Attempts left: 18
+31/07/2023 19:42:25 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:46:33 - root - INFO - Incorrect guess.
+31/07/2023 19:46:33 - root - INFO - Attempts left: 19
+31/07/2023 19:46:33 - root - INFO - _ _ _ _ _ _ _
+31/07/2023 19:46:34 - root - INFO - Correct guess!
+31/07/2023 19:46:34 - root - INFO - Attempts left: 19
+31/07/2023 19:46:34 - root - INFO - b _ _ _ _ _ _
+31/07/2023 19:46:35 - root - INFO - Incorrect guess.
+31/07/2023 19:46:35 - root - INFO - Attempts left: 18
+31/07/2023 19:46:35 - root - INFO - b _ _ _ _ _ _
+31/07/2023 19:46:36 - root - INFO - Incorrect guess.
+31/07/2023 19:46:36 - root - INFO - Attempts left: 17
+31/07/2023 19:46:36 - root - INFO - b _ _ _ _ _ _
+31/07/2023 19:46:36 - root - INFO - Incorrect guess.
+31/07/2023 19:46:36 - root - INFO - Attempts left: 16
+31/07/2023 19:46:36 - root - INFO - b _ _ _ _ _ _
+31/07/2023 19:46:36 - root - INFO - Incorrect guess.
+31/07/2023 19:46:36 - root - INFO - Attempts left: 15
+31/07/2023 19:46:36 - root - INFO - b _ _ _ _ _ _
+31/07/2023 19:46:37 - root - INFO - Correct guess!
+31/07/2023 19:46:37 - root - INFO - Attempts left: 15
+31/07/2023 19:46:37 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:37 - root - INFO - Incorrect guess.
+31/07/2023 19:46:37 - root - INFO - Attempts left: 14
+31/07/2023 19:46:37 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:37 - root - INFO - Incorrect guess.
+31/07/2023 19:46:37 - root - INFO - Attempts left: 13
+31/07/2023 19:46:37 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:37 - root - INFO - Incorrect guess.
+31/07/2023 19:46:37 - root - INFO - Attempts left: 12
+31/07/2023 19:46:37 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:37 - root - INFO - Incorrect guess.
+31/07/2023 19:46:37 - root - INFO - Attempts left: 11
+31/07/2023 19:46:37 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 10
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 9
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 8
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 7
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 6
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:46:38 - root - INFO - Incorrect guess.
+31/07/2023 19:46:38 - root - INFO - Attempts left: 5
+31/07/2023 19:46:38 - root - INFO - b _ _ _ _ e _
+31/07/2023 19:47:01 - root - INFO - Game terminated by the user.
+31/07/2023 19:47:05 - root - INFO - Incorrect guess.
+31/07/2023 19:47:05 - root - INFO - Attempts left: 19
+31/07/2023 19:47:05 - root - INFO - _ _ _ _ _ _
+31/07/2023 19:47:06 - root - INFO - Incorrect guess.
+31/07/2023 19:47:06 - root - INFO - Attempts left: 18
+31/07/2023 19:47:06 - root - INFO - _ _ _ _ _ _
+31/07/2023 19:47:07 - root - INFO - Incorrect guess.
+31/07/2023 19:47:07 - root - INFO - Attempts left: 17
+31/07/2023 19:47:07 - root - INFO - _ _ _ _ _ _
+31/07/2023 19:47:08 - root - INFO - Correct guess!
+31/07/2023 19:47:08 - root - INFO - Attempts left: 17
+31/07/2023 19:47:08 - root - INFO - s _ _ _ _ _
+31/07/2023 19:47:08 - root - INFO - Incorrect guess.
+31/07/2023 19:47:08 - root - INFO - Attempts left: 16
+31/07/2023 19:47:08 - root - INFO - s _ _ _ _ _
+31/07/2023 19:47:08 - root - INFO - Incorrect guess.
+31/07/2023 19:47:08 - root - INFO - Attempts left: 15
+31/07/2023 19:47:08 - root - INFO - s _ _ _ _ _
+31/07/2023 19:47:09 - root - INFO - Incorrect guess.
+31/07/2023 19:47:09 - root - INFO - Attempts left: 14
+31/07/2023 19:47:09 - root - INFO - s _ _ _ _ _
+31/07/2023 19:47:09 - root - INFO - Incorrect guess.
+31/07/2023 19:47:09 - root - INFO - Attempts left: 13
+31/07/2023 19:47:09 - root - INFO - s _ _ _ _ _
+31/07/2023 19:47:37 - root - INFO - Game terminated by the user.
+31/07/2023 19:47:41 - root - INFO - Incorrect guess.
+31/07/2023 19:47:41 - root - INFO - Attempts left: 19
+31/07/2023 19:47:41 - root - INFO - _ _ _ _ _ _
+31/07/2023 19:47:43 - root - INFO - Incorrect guess.
+31/07/2023 19:47:43 - root - INFO - Attempts left: 18
+31/07/2023 19:47:43 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:48:04 - root - INFO - Correct guess!
+31/07/2023 19:48:04 - root - INFO - Attempts left: 20
+31/07/2023 19:48:04 - root - INFO - _ _ a _ _ _ _ _ _ _
+31/07/2023 19:48:04 - root - INFO - Incorrect guess.
+31/07/2023 19:48:04 - root - INFO - Attempts left: 19
+31/07/2023 19:48:04 - root - INFO - _ _ a _ _ _ _ _ _ _
+31/07/2023 19:48:05 - root - INFO - Incorrect guess.
+31/07/2023 19:48:05 - root - INFO - Attempts left: 18
+31/07/2023 19:48:05 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:48:12 - root - INFO - Correct guess!
+31/07/2023 19:48:12 - root - INFO - Attempts left: 20
+31/07/2023 19:48:12 - root - INFO - _ _ _ _ _ a _ _ _ a _ _ _ _
+31/07/2023 19:48:13 - root - INFO - Incorrect guess.
+31/07/2023 19:48:13 - root - INFO - Attempts left: 19
+31/07/2023 19:48:13 - root - INFO - _ _ _ _ _ a _ _ _ a _ _ _ _
+31/07/2023 19:48:15 - root - INFO - Incorrect guess.
+31/07/2023 19:48:15 - root - INFO - Attempts left: 18
+31/07/2023 19:48:15 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:49:00 - root - INFO - Incorrect guess.
+31/07/2023 19:49:00 - root - INFO - Attempts left: 19
+31/07/2023 19:49:00 - root - INFO - _ _ _ _ _ _ _ _ _ _
+31/07/2023 19:49:02 - root - INFO - Incorrect guess.
+31/07/2023 19:49:02 - root - INFO - Attempts left: 18
+31/07/2023 19:49:02 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:51:33 - root - INFO - Correct guess!
+31/07/2023 19:51:33 - root - INFO - Attempts left: 20
+31/07/2023 19:51:33 - root - INFO - _ _ _ _ _ _ _ _ a _ _
+31/07/2023 19:51:44 - root - INFO - Incorrect guess.
+31/07/2023 19:51:44 - root - INFO - Attempts left: 19
+31/07/2023 19:51:44 - root - INFO - _ _ _ _ _ _ _ _ a _ _
+31/07/2023 19:52:18 - root - INFO - Incorrect guess.
+31/07/2023 19:52:18 - root - INFO - Attempts left: 18
+31/07/2023 19:52:18 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 19:52:25 - root - INFO - Correct guess!
+31/07/2023 19:52:25 - root - INFO - Attempts left: 20
+31/07/2023 19:52:25 - root - INFO - a _ _ _ _ _ a _ _ _ _
+31/07/2023 19:53:25 - root - INFO - Correct guess!
+31/07/2023 19:53:25 - root - INFO - Attempts left: 20
+31/07/2023 19:53:25 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 19:58:15 - root - INFO - You've already guessed this letter.
+31/07/2023 19:58:15 - root - INFO - Attempts left: 20
+31/07/2023 19:58:15 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 19:58:18 - root - INFO - Incorrect guess.
+31/07/2023 19:58:18 - root - INFO - Attempts left: 19
+31/07/2023 19:58:18 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 19:58:28 - root - INFO - Incorrect guess.
+31/07/2023 19:58:28 - root - INFO - Attempts left: 18
+31/07/2023 19:58:28 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:00:06 - root - INFO - Incorrect guess.
+31/07/2023 20:00:06 - root - INFO - Attempts left: 19
+31/07/2023 20:00:06 - root - INFO - _ _ _ _ _ _ _
+31/07/2023 20:00:10 - root - INFO - Correct guess!
+31/07/2023 20:00:10 - root - INFO - Attempts left: 19
+31/07/2023 20:00:10 - root - INFO - _ _ b _ _ _ _
+31/07/2023 20:00:33 - root - INFO - Incorrect guess.
+31/07/2023 20:00:33 - root - INFO - Attempts left: 18
+31/07/2023 20:00:33 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:01:09 - root - INFO - Correct guess!
+31/07/2023 20:01:09 - root - INFO - Attempts left: 20
+31/07/2023 20:01:09 - root - INFO - b _ _ _
+31/07/2023 20:01:13 - root - INFO - Incorrect guess.
+31/07/2023 20:01:13 - root - INFO - Attempts left: 19
+31/07/2023 20:01:13 - root - INFO - b _ _ _
+31/07/2023 20:01:14 - root - INFO - Incorrect guess.
+31/07/2023 20:01:14 - root - INFO - Attempts left: 18
+31/07/2023 20:01:14 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:02:30 - root - INFO - Correct guess!
+31/07/2023 20:02:30 - root - INFO - Attempts left: 20
+31/07/2023 20:02:30 - root - INFO - _ _ a _ _ _ _ _ _ _
+31/07/2023 20:02:36 - root - INFO - Correct guess!
+31/07/2023 20:02:36 - root - INFO - Attempts left: 20
+31/07/2023 20:02:36 - root - INFO - _ _ a _ _ _ h _ _ _
+31/07/2023 20:02:49 - root - INFO - Incorrect guess.
+31/07/2023 20:02:49 - root - INFO - Attempts left: 19
+31/07/2023 20:02:49 - root - INFO - _ _ a _ _ _ h _ _ _
+31/07/2023 20:02:55 - root - INFO - Incorrect guess.
+31/07/2023 20:02:55 - root - INFO - Attempts left: 18
+31/07/2023 20:02:55 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:03:18 - root - INFO - Incorrect guess.
+31/07/2023 20:03:18 - root - INFO - Attempts left: 1999
+31/07/2023 20:03:18 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:03:59 - root - INFO - Correct guess!
+31/07/2023 20:03:59 - root - INFO - Attempts left: 2000
+31/07/2023 20:03:59 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:04:14 - root - INFO - Incorrect guess.
+31/07/2023 20:04:14 - root - INFO - Attempts left: 4
+31/07/2023 20:04:14 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:08:31 - root - INFO - Incorrect guess.
+31/07/2023 20:08:33 - root - INFO - Incorrect guess.
+31/07/2023 20:08:36 - root - INFO - Incorrect guess.
+31/07/2023 20:08:38 - root - INFO - Correct guess!
+31/07/2023 20:08:41 - root - INFO - Incorrect guess.
+31/07/2023 20:08:43 - root - INFO - Incorrect guess.
+31/07/2023 20:08:43 - root - INFO - Game Over! The word was 'logic'.
+31/07/2023 20:08:45 - root - INFO - Incorrect guess.
+31/07/2023 20:08:45 - root - INFO - Attempts left: -1
+31/07/2023 20:08:45 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:09:09 - root - INFO - Incorrect guess.
+31/07/2023 20:09:12 - root - INFO - Incorrect guess.
+31/07/2023 20:09:13 - root - INFO - Correct guess!
+31/07/2023 20:09:14 - root - INFO - Incorrect guess.
+31/07/2023 20:09:15 - root - INFO - Incorrect guess.
+31/07/2023 20:09:16 - root - INFO - Incorrect guess.
+31/07/2023 20:09:19 - root - INFO - Incorrect guess.
+31/07/2023 20:09:20 - root - INFO - Incorrect guess.
+31/07/2023 20:09:21 - root - INFO - Correct guess!
+31/07/2023 20:09:22 - root - INFO - Incorrect guess.
+31/07/2023 20:09:23 - root - INFO - Incorrect guess.
+31/07/2023 20:09:26 - root - INFO - Incorrect guess.
+31/07/2023 20:09:28 - root - INFO - Incorrect guess.
+31/07/2023 20:09:29 - root - INFO - Incorrect guess.
+31/07/2023 20:09:30 - root - INFO - You've already guessed this letter.
+31/07/2023 20:09:32 - root - INFO - Incorrect guess.
+31/07/2023 20:09:33 - root - INFO - Incorrect guess.
+31/07/2023 20:09:33 - root - INFO - Incorrect guess.
+31/07/2023 20:09:33 - root - INFO - Attempts left: 5
+31/07/2023 20:09:33 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:10:07 - root - INFO - Incorrect guess.
+31/07/2023 20:10:07 - root - INFO - Attempts left: 19
+31/07/2023 20:10:07 - root - INFO - _ _ _ _ _ _ _
+31/07/2023 20:10:09 - root - INFO - Correct guess!
+31/07/2023 20:10:09 - root - INFO - Attempts left: 19
+31/07/2023 20:10:09 - root - INFO - b _ _ _ _ _ _
+31/07/2023 20:10:10 - root - INFO - Incorrect guess.
+31/07/2023 20:10:10 - root - INFO - Attempts left: 18
+31/07/2023 20:10:10 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:10:24 - root - INFO - Correct guess!
+31/07/2023 20:10:24 - root - INFO - Attempts left: 20
+31/07/2023 20:10:24 - root - INFO - _ _ a _ _
+31/07/2023 20:10:25 - root - INFO - Incorrect guess.
+31/07/2023 20:10:25 - root - INFO - Attempts left: 19
+31/07/2023 20:10:25 - root - INFO - _ _ a _ _
+31/07/2023 20:10:25 - root - INFO - Incorrect guess.
+31/07/2023 20:10:25 - root - INFO - Attempts left: 18
+31/07/2023 20:10:25 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:10:53 - root - INFO - Incorrect guess.
+31/07/2023 20:10:53 - root - INFO - Attempts left: 19
+31/07/2023 20:10:53 - root - INFO - _ _ _ _ _ _
+31/07/2023 20:10:54 - root - INFO - Incorrect guess.
+31/07/2023 20:10:54 - root - INFO - Attempts left: 18
+31/07/2023 20:10:54 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:11:25 - root - INFO - Correct guess!
+31/07/2023 20:11:27 - root - INFO - Incorrect guess.
+31/07/2023 20:11:30 - root - INFO - You've already guessed this letter.
+31/07/2023 20:11:32 - root - INFO - Correct guess!
+31/07/2023 20:11:33 - root - INFO - Incorrect guess.
+31/07/2023 20:11:36 - root - INFO - Incorrect guess.
+31/07/2023 20:11:37 - root - INFO - Incorrect guess.
+31/07/2023 20:11:38 - root - INFO - You've already guessed this letter.
+31/07/2023 20:11:40 - root - INFO - Correct guess!
+31/07/2023 20:11:41 - root - INFO - Incorrect guess.
+31/07/2023 20:11:44 - root - INFO - Incorrect guess.
+31/07/2023 20:11:45 - root - INFO - Incorrect guess.
+31/07/2023 20:11:46 - root - INFO - Incorrect guess.
+31/07/2023 20:11:46 - root - INFO - Incorrect guess.
+31/07/2023 20:11:46 - root - INFO - Incorrect guess.
+31/07/2023 20:11:47 - root - INFO - You've already guessed this letter.
+31/07/2023 20:11:48 - root - INFO - You've already guessed this letter.
+31/07/2023 20:11:50 - root - INFO - Incorrect guess.
+31/07/2023 20:11:50 - root - INFO - Incorrect guess.
+31/07/2023 20:11:51 - root - INFO - Incorrect guess.
+31/07/2023 20:11:51 - root - INFO - Incorrect guess.
+31/07/2023 20:11:53 - root - INFO - Incorrect guess.
+31/07/2023 20:11:54 - root - INFO - You've already guessed this letter.
+31/07/2023 20:11:54 - root - INFO - Incorrect guess.
+31/07/2023 20:11:55 - root - INFO - Correct guess!
+31/07/2023 20:11:55 - root - INFO - Incorrect guess.
+31/07/2023 20:11:56 - root - INFO - Incorrect guess.
+31/07/2023 20:11:56 - root - INFO - Incorrect guess.
+31/07/2023 20:11:57 - root - INFO - Incorrect guess.
+31/07/2023 20:11:57 - root - INFO - You've already guessed this letter.
+31/07/2023 20:12:00 - root - INFO - Incorrect guess.
+31/07/2023 20:12:01 - root - INFO - Correct guess!
+31/07/2023 20:12:02 - root - INFO - You've already guessed this letter.
+31/07/2023 20:12:03 - root - INFO - You've already guessed this letter.
+31/07/2023 20:12:03 - root - INFO - Incorrect guess.
+31/07/2023 20:12:05 - root - INFO - Correct guess!
+31/07/2023 20:12:07 - root - INFO - Correct guess!
+31/07/2023 20:12:09 - root - INFO - You've already guessed this letter.
+31/07/2023 20:12:47 - root - INFO - Game terminated by the user.
+31/07/2023 20:12:54 - root - INFO - Incorrect guess.
+31/07/2023 20:12:57 - root - INFO - Incorrect guess.
+31/07/2023 20:12:57 - root - INFO - Correct guess!
+31/07/2023 20:12:58 - root - INFO - Incorrect guess.
+31/07/2023 20:13:01 - root - INFO - Correct guess!
+31/07/2023 20:13:02 - root - INFO - Incorrect guess.
+31/07/2023 20:13:02 - root - INFO - Attempts left: 16
+31/07/2023 20:13:02 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:13:51 - root - INFO - Incorrect guess.
+31/07/2023 20:13:51 - root - INFO - Attempts left: 19
+31/07/2023 20:13:51 - root - INFO - _ _ _ _ _
+31/07/2023 20:13:54 - root - INFO - Incorrect guess.
+31/07/2023 20:13:54 - root - INFO - Attempts left: 18
+31/07/2023 20:13:54 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:14:40 - root - INFO - Correct guess!
+31/07/2023 20:14:40 - root - INFO - Attempts left: 20
+31/07/2023 20:14:40 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:14:41 - root - INFO - Incorrect guess.
+31/07/2023 20:14:41 - root - INFO - Attempts left: 19
+31/07/2023 20:14:41 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:14:42 - root - INFO - Incorrect guess.
+31/07/2023 20:14:42 - root - INFO - Attempts left: 18
+31/07/2023 20:14:42 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:14:57 - root - INFO - Incorrect guess.
+31/07/2023 20:14:57 - root - INFO - Attempts left: 19
+31/07/2023 20:14:57 - root - INFO - _ _ _ _ _ _ _ _ _
+31/07/2023 20:14:58 - root - INFO - Incorrect guess.
+31/07/2023 20:14:58 - root - INFO - Attempts left: 18
+31/07/2023 20:14:58 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:17:29 - root - INFO - Correct guess!
+31/07/2023 20:17:29 - root - INFO - Attempts left: 20
+31/07/2023 20:17:29 - root - INFO - _ _ _ _ _ a _ _ _ _ _
+31/07/2023 20:17:33 - root - INFO - Incorrect guess.
+31/07/2023 20:17:33 - root - INFO - Attempts left: 19
+31/07/2023 20:17:33 - root - INFO - _ _ _ _ _ a _ _ _ _ _
+31/07/2023 20:17:37 - root - INFO - Incorrect guess.
+31/07/2023 20:17:37 - root - INFO - Attempts left: 18
+31/07/2023 20:17:37 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:18:53 - root - INFO - Correct guess!
+31/07/2023 20:18:53 - root - INFO - Attempts left: 20
+31/07/2023 20:18:53 - root - INFO - a _ _ _ _ _ _ _ _
+31/07/2023 20:18:55 - root - INFO - Correct guess!
+31/07/2023 20:18:55 - root - INFO - Attempts left: 20
+31/07/2023 20:18:55 - root - INFO - a _ _ _ r _ _ _ _
+31/07/2023 20:18:58 - root - INFO - Incorrect guess.
+31/07/2023 20:18:58 - root - INFO - Attempts left: 19
+31/07/2023 20:18:58 - root - INFO - a _ _ _ r _ _ _ _
+31/07/2023 20:19:00 - root - INFO - Correct guess!
+31/07/2023 20:19:00 - root - INFO - Attempts left: 19
+31/07/2023 20:19:00 - root - INFO - a _ _ _ r _ _ h _
+31/07/2023 20:19:02 - root - INFO - Incorrect guess.
+31/07/2023 20:19:02 - root - INFO - Attempts left: 18
+31/07/2023 20:19:02 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:19:24 - root - INFO - Incorrect guess.
+31/07/2023 20:19:24 - root - INFO - Attempts left: 19
+31/07/2023 20:19:24 - root - INFO - _ _ _ _ _ _ _ _
+31/07/2023 20:19:26 - root - INFO - Incorrect guess.
+31/07/2023 20:19:26 - root - INFO - Attempts left: 18
+31/07/2023 20:19:26 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:20:27 - root - INFO - Correct guess!
+31/07/2023 20:20:27 - root - INFO - Attempts left: 20
+31/07/2023 20:20:27 - root - INFO - _ _ _ _ a _
+31/07/2023 20:20:33 - root - INFO - Correct guess!
+31/07/2023 20:20:33 - root - INFO - Attempts left: 20
+31/07/2023 20:20:33 - root - INFO - _ _ _ c a _
+31/07/2023 20:20:42 - root - INFO - Incorrect guess.
+31/07/2023 20:20:42 - root - INFO - Attempts left: 19
+31/07/2023 20:20:42 - root - INFO - _ _ _ c a _
+31/07/2023 20:20:45 - root - INFO - Incorrect guess.
+31/07/2023 20:20:45 - root - INFO - Attempts left: 18
+31/07/2023 20:20:45 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:21:28 - root - INFO - Correct guess!
+31/07/2023 20:21:28 - root - INFO - Attempts left: 20
+31/07/2023 20:21:28 - root - INFO - _ a _ _ _ _
+31/07/2023 20:21:32 - root - INFO - Incorrect guess.
+31/07/2023 20:21:32 - root - INFO - Attempts left: 19
+31/07/2023 20:21:32 - root - INFO - _ a _ _ _ _
+31/07/2023 20:21:33 - root - INFO - Incorrect guess.
+31/07/2023 20:21:33 - root - INFO - Attempts left: 18
+31/07/2023 20:21:33 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:21:55 - root - INFO - Correct guess!
+31/07/2023 20:21:55 - root - INFO - Attempts left: 20
+31/07/2023 20:21:55 - root - INFO - _ _ _ _ a _ _
+31/07/2023 20:21:56 - root - INFO - Correct guess!
+31/07/2023 20:21:56 - root - INFO - Attempts left: 20
+31/07/2023 20:21:56 - root - INFO - c _ _ _ a _ _
+31/07/2023 20:21:57 - root - INFO - Incorrect guess.
+31/07/2023 20:21:57 - root - INFO - Attempts left: -1
+31/07/2023 20:21:57 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:23:12 - root - INFO - Incorrect guess.
+31/07/2023 20:23:12 - root - INFO - Attempts left: 19
+31/07/2023 20:23:12 - root - INFO - _ _ _ _ _ _
+31/07/2023 20:23:14 - root - INFO - Incorrect guess.
+31/07/2023 20:23:14 - root - INFO - Attempts left: 18
+31/07/2023 20:23:14 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:24:10 - root - INFO - Correct guess!
+31/07/2023 20:24:10 - root - INFO - Attempts left: 20
+31/07/2023 20:24:10 - root - INFO - _ _ _ _ a _ _
+31/07/2023 20:24:12 - root - INFO - Incorrect guess.
+31/07/2023 20:24:12 - root - INFO - Attempts left: 19
+31/07/2023 20:24:12 - root - INFO - _ _ _ _ a _ _
+31/07/2023 20:24:14 - root - INFO - Correct guess!
+31/07/2023 20:24:14 - root - INFO - Attempts left: 19
+31/07/2023 20:24:14 - root - INFO - c _ _ _ a _ _
+31/07/2023 20:24:16 - root - INFO - Correct guess!
+31/07/2023 20:24:16 - root - INFO - Attempts left: 19
+31/07/2023 20:24:16 - root - INFO - c _ _ _ a _ d
+31/07/2023 20:24:18 - root - INFO - Incorrect guess.
+31/07/2023 20:24:18 - root - INFO - Attempts left: 18
+31/07/2023 20:24:18 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:24:43 - root - INFO - Incorrect guess.
+31/07/2023 20:24:43 - root - INFO - Attempts left: 19
+31/07/2023 20:24:43 - root - INFO - _ _ _ _
+31/07/2023 20:24:45 - root - INFO - Incorrect guess.
+31/07/2023 20:24:45 - root - INFO - Attempts left: 18
+31/07/2023 20:24:45 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:24:52 - root - INFO - Incorrect guess.
+31/07/2023 20:24:53 - root - INFO - Incorrect guess.
+31/07/2023 20:24:53 - root - INFO - Correct guess!
+31/07/2023 20:24:54 - root - INFO - Incorrect guess.
+31/07/2023 20:24:54 - root - INFO - Incorrect guess.
+31/07/2023 20:25:04 - root - INFO - Game terminated by the user.
+31/07/2023 20:25:09 - root - INFO - Correct guess!
+31/07/2023 20:25:09 - root - INFO - Attempts left: 20
+31/07/2023 20:25:09 - root - INFO - _ a _ _ _ _ _ _ _ _ _ _ _ _
+31/07/2023 20:25:12 - root - INFO - Correct guess!
+31/07/2023 20:25:12 - root - INFO - Attempts left: 20
+31/07/2023 20:25:12 - root - INFO - _ a _ _ _ _ c _ _ _ _ _ _ _
+31/07/2023 20:25:13 - root - INFO - Incorrect guess.
+31/07/2023 20:25:13 - root - INFO - Attempts left: 19
+31/07/2023 20:25:13 - root - INFO - _ a _ _ _ _ c _ _ _ _ _ _ _
+31/07/2023 20:25:15 - root - INFO - Correct guess!
+31/07/2023 20:25:15 - root - INFO - Attempts left: 19
+31/07/2023 20:25:15 - root - INFO - _ a _ _ _ e c _ _ _ _ _ _ _
+31/07/2023 20:25:19 - root - INFO - Incorrect guess.
+31/07/2023 20:25:19 - root - INFO - Attempts left: 18
+31/07/2023 20:25:19 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:25:52 - root - INFO - Correct guess!
+31/07/2023 20:25:52 - root - INFO - Attempts left: 20
+31/07/2023 20:25:52 - root - INFO - _ _ _ _ _ _ a _ _ _ _
+31/07/2023 20:25:54 - root - INFO - Incorrect guess.
+31/07/2023 20:25:54 - root - INFO - Attempts left: 19
+31/07/2023 20:25:54 - root - INFO - _ _ _ _ _ _ a _ _ _ _
+31/07/2023 20:25:55 - root - INFO - Incorrect guess.
+31/07/2023 20:25:55 - root - INFO - Attempts left: 18
+31/07/2023 20:25:55 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:26:24 - root - INFO - Correct guess!
+31/07/2023 20:26:28 - root - INFO - Incorrect guess.
+31/07/2023 20:26:28 - root - INFO - Correct guess!
+31/07/2023 20:26:31 - root - INFO - Correct guess!
+31/07/2023 20:26:34 - root - INFO - Incorrect guess.
+31/07/2023 20:26:36 - root - INFO - Incorrect guess.
+31/07/2023 20:26:37 - root - INFO - Incorrect guess.
+31/07/2023 20:26:39 - root - INFO - Incorrect guess.
+31/07/2023 20:26:41 - root - INFO - Correct guess!
+31/07/2023 20:26:43 - root - INFO - Correct guess!
+31/07/2023 20:27:26 - root - INFO - You've already guessed this letter.
+31/07/2023 20:27:27 - root - INFO - Incorrect guess.
+31/07/2023 20:27:27 - root - INFO - Incorrect guess.
+31/07/2023 20:27:27 - root - INFO - Incorrect guess.
+31/07/2023 20:27:28 - root - INFO - Incorrect guess.
+31/07/2023 20:27:28 - root - INFO - Incorrect guess.
+31/07/2023 20:27:28 - root - INFO - Attempts left: 10
+31/07/2023 20:27:28 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:29:10 - root - INFO - Incorrect guess.
+31/07/2023 20:29:12 - root - INFO - Incorrect guess.
+31/07/2023 20:29:13 - root - INFO - Incorrect guess.
+31/07/2023 20:29:14 - root - INFO - Incorrect guess.
+31/07/2023 20:29:15 - root - INFO - Incorrect guess.
+31/07/2023 20:29:16 - root - INFO - Incorrect guess.
+31/07/2023 20:29:17 - root - INFO - Incorrect guess.
+31/07/2023 20:29:18 - root - INFO - Incorrect guess.
+31/07/2023 20:29:19 - root - INFO - Incorrect guess.
+31/07/2023 20:29:19 - root - INFO - Correct guess!
+31/07/2023 20:29:19 - root - INFO - Incorrect guess.
+31/07/2023 20:29:21 - root - INFO - Incorrect guess.
+31/07/2023 20:29:23 - root - INFO - Incorrect guess.
+31/07/2023 20:29:24 - root - INFO - Incorrect guess.
+31/07/2023 20:29:25 - root - INFO - Incorrect guess.
+31/07/2023 20:29:26 - root - INFO - Incorrect guess.
+31/07/2023 20:29:27 - root - INFO - Incorrect guess.
+31/07/2023 20:29:27 - root - INFO - Incorrect guess.
+31/07/2023 20:29:27 - root - INFO - Incorrect guess.
+31/07/2023 20:29:28 - root - INFO - Correct guess!
+31/07/2023 20:29:31 - root - INFO - Incorrect guess.
+31/07/2023 20:29:34 - root - INFO - Correct guess!
+31/07/2023 20:29:36 - root - INFO - Incorrect guess.
+31/07/2023 20:29:36 - root - INFO - Game Over! The word was 'virus'.
+31/07/2023 20:30:00 - root - INFO - Incorrect guess.
+31/07/2023 20:30:09 - root - INFO - Game terminated by the user.
+31/07/2023 20:30:14 - root - INFO - Incorrect guess.
+31/07/2023 20:30:14 - root - INFO - Attempts left: 19
+31/07/2023 20:30:14 - root - INFO - _ _ _ _ _ _
+31/07/2023 20:30:17 - root - INFO - Correct guess!
+31/07/2023 20:30:17 - root - INFO - Attempts left: 19
+31/07/2023 20:30:17 - root - INFO - s _ _ _ _ _
+31/07/2023 20:30:20 - root - INFO - Correct guess!
+31/07/2023 20:30:20 - root - INFO - Attempts left: 19
+31/07/2023 20:30:20 - root - INFO - s e _ _ e _
+31/07/2023 20:30:21 - root - INFO - Correct guess!
+31/07/2023 20:30:21 - root - INFO - Attempts left: 19
+31/07/2023 20:30:21 - root - INFO - s e r _ e r
+31/07/2023 20:30:21 - root - INFO - Correct guess!
+31/07/2023 20:30:21 - root - INFO - Attempts left: 19
+31/07/2023 20:30:21 - root - INFO - s e r v e r
+31/07/2023 20:30:31 - root - INFO - Incorrect guess.
+31/07/2023 20:30:31 - root - INFO - Attempts left: 18
+31/07/2023 20:30:31 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:31:19 - root - INFO - Incorrect guess.
+31/07/2023 20:31:19 - root - INFO - Attempts left: 19
+31/07/2023 20:31:19 - root - INFO - _ _ _ _ _ _
+31/07/2023 20:31:20 - root - INFO - Incorrect guess.
+31/07/2023 20:31:20 - root - INFO - Attempts left: 18
+31/07/2023 20:31:20 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:31:43 - root - INFO - Incorrect guess.
+31/07/2023 20:31:43 - root - INFO - Attempts left: 19
+31/07/2023 20:31:43 - root - INFO - _ _ _ _
+31/07/2023 20:31:44 - root - INFO - Incorrect guess.
+31/07/2023 20:31:44 - root - INFO - Attempts left: 18
+31/07/2023 20:31:44 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:31:57 - root - INFO - Correct guess!
+31/07/2023 20:31:57 - root - INFO - _ a _ _
+31/07/2023 20:32:00 - root - INFO - Correct guess!
+31/07/2023 20:32:00 - root - INFO - h a _ _
+31/07/2023 20:32:01 - root - INFO - Correct guess!
+31/07/2023 20:32:01 - root - INFO - h a c _
+31/07/2023 20:32:02 - root - INFO - Incorrect guess.
+31/07/2023 20:32:02 - root - INFO - h a c _
+31/07/2023 20:32:03 - root - INFO - Incorrect guess.
+31/07/2023 20:32:03 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:32:31 - root - INFO - Correct guess!
+31/07/2023 20:32:31 - root - INFO - Attempts left: 20
+31/07/2023 20:32:31 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:32:36 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:33:38 - root - INFO - You've already guessed this letter.
+31/07/2023 20:33:38 - root - INFO - Attempts left: 20
+31/07/2023 20:33:38 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:33:39 - root - INFO - Incorrect guess.
+31/07/2023 20:33:39 - root - INFO - Attempts left: 19
+31/07/2023 20:33:39 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:33:40 - root - INFO - Correct guess!
+31/07/2023 20:33:40 - root - INFO - Attempts left: 19
+31/07/2023 20:33:40 - root - INFO - _ _ _ _ _ a _ d
+31/07/2023 20:33:40 - root - INFO - You've already guessed this letter.
+31/07/2023 20:33:40 - root - INFO - Attempts left: 19
+31/07/2023 20:33:40 - root - INFO - _ _ _ _ _ a _ d
+31/07/2023 20:33:41 - root - INFO - Incorrect guess.
+31/07/2023 20:33:41 - root - INFO - Attempts left: 18
+31/07/2023 20:33:41 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:33:50 - root - INFO - Incorrect guess.
+31/07/2023 20:33:50 - root - INFO - _ _ _ _ _ _ _
+31/07/2023 20:33:53 - root - INFO - Correct guess!
+31/07/2023 20:33:53 - root - INFO - n _ _ _ _ _ _
+31/07/2023 20:33:54 - root - INFO - Correct guess!
+31/07/2023 20:33:54 - root - INFO - n e _ _ _ _ _
+31/07/2023 20:33:54 - root - INFO - Correct guess!
+31/07/2023 20:33:54 - root - INFO - n e t _ _ _ _
+31/07/2023 20:33:55 - root - INFO - Correct guess!
+31/07/2023 20:33:55 - root - INFO - n e t w _ _ _
+31/07/2023 20:33:56 - root - INFO - Correct guess!
+31/07/2023 20:33:56 - root - INFO - n e t w o _ _
+31/07/2023 20:33:58 - root - INFO - Correct guess!
+31/07/2023 20:33:58 - root - INFO - n e t w o r _
+31/07/2023 20:33:59 - root - INFO - Incorrect guess.
+31/07/2023 20:33:59 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:36:04 - root - INFO - Game terminated by the user.
+31/07/2023 20:36:28 - root - INFO - Game terminated by the user.
+31/07/2023 20:38:23 - root - INFO - Correct guess!
+31/07/2023 20:38:23 - root - INFO - Attempts left: 20
+31/07/2023 20:38:23 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:38:28 - root - INFO - Correct guess!
+31/07/2023 20:38:28 - root - INFO - Attempts left: 20
+31/07/2023 20:38:28 - root - INFO - s _ _ _ _ a _ _
+31/07/2023 20:38:33 - root - INFO - Incorrect guess.
+31/07/2023 20:38:33 - root - INFO - Attempts left: 19
+31/07/2023 20:38:33 - root - INFO - s _ _ _ _ a _ _
+31/07/2023 20:38:36 - root - INFO - Incorrect guess.
+31/07/2023 20:38:36 - root - INFO - Attempts left: 18
+31/07/2023 20:38:36 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:39:53 - root - INFO - Correct guess!
+31/07/2023 20:39:53 - root - INFO - Attempts left: 20
+31/07/2023 20:39:53 - root - INFO - _ _ _ _ _ a _ _
+31/07/2023 20:39:55 - root - INFO - Correct guess!
+31/07/2023 20:39:55 - root - INFO - Attempts left: 20
+31/07/2023 20:39:55 - root - INFO - _ _ e _ _ a _ e
+31/07/2023 20:39:57 - root - INFO - Incorrect guess.
+31/07/2023 20:39:57 - root - INFO - Attempts left: 19
+31/07/2023 20:39:57 - root - INFO - _ _ e _ _ a _ e
+31/07/2023 20:40:00 - root - INFO - Incorrect guess.
+31/07/2023 20:40:00 - root - INFO - Attempts left: 18
+31/07/2023 20:40:00 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:40:17 - root - INFO - Incorrect guess.
+31/07/2023 20:40:17 - root - INFO - Attempts left: 19
+31/07/2023 20:40:17 - root - INFO - _ _ _ _ _ _
+31/07/2023 20:40:19 - root - INFO - Incorrect guess.
+31/07/2023 20:40:19 - root - INFO - Attempts left: 18
+31/07/2023 20:40:19 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:40:36 - root - INFO - Incorrect guess.
+31/07/2023 20:40:36 - root - INFO - Attempts left: 19
+31/07/2023 20:40:36 - root - INFO - _ _ _ _ _
+31/07/2023 20:40:38 - root - INFO - Incorrect guess.
+31/07/2023 20:40:38 - root - INFO - Attempts left: 18
+31/07/2023 20:40:38 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:40:45 - root - INFO - Correct guess!
+31/07/2023 20:40:45 - root - INFO - Attempts left: 20
+31/07/2023 20:40:45 - root - INFO - _ _ _ _ a _
+31/07/2023 20:40:47 - root - INFO - Correct guess!
+31/07/2023 20:40:47 - root - INFO - Attempts left: 20
+31/07/2023 20:40:47 - root - INFO - s _ _ _ a _
+31/07/2023 20:40:48 - root - INFO - Incorrect guess.
+31/07/2023 20:40:48 - root - INFO - Attempts left: 19
+31/07/2023 20:40:48 - root - INFO - s _ _ _ a _
+31/07/2023 20:40:50 - root - INFO - Incorrect guess.
+31/07/2023 20:40:50 - root - INFO - Attempts left: 18
+31/07/2023 20:40:50 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:42:05 - root - INFO - Correct guess!
+31/07/2023 20:42:10 - root - INFO - Incorrect guess.
+31/07/2023 20:42:10 - root - INFO - Attempts left: 19
+31/07/2023 20:42:10 - root - INFO - _ _ _ _ _ _ _ _ _ a
+31/07/2023 20:42:17 - root - INFO - Incorrect guess.
+31/07/2023 20:42:17 - root - INFO - Attempts left: 18
+31/07/2023 20:42:17 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:42:52 - root - INFO - Correct guess!
+31/07/2023 20:42:52 - root - INFO - Attempts left: 20
+31/07/2023 20:42:52 - root - INFO - _ a _ _ _
+31/07/2023 20:42:55 - root - INFO - Incorrect guess.
+31/07/2023 20:42:55 - root - INFO - Attempts left: 19
+31/07/2023 20:42:55 - root - INFO - _ a _ _ _
+31/07/2023 20:42:57 - root - INFO - Incorrect guess.
+31/07/2023 20:42:57 - root - INFO - Attempts left: 18
+31/07/2023 20:42:57 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:43:04 - root - INFO - Correct guess!
+31/07/2023 20:43:04 - root - INFO - Attempts left: 20
+31/07/2023 20:43:04 - root - INFO - _ a _ _ a _ _
+31/07/2023 20:43:05 - root - INFO - Incorrect guess.
+31/07/2023 20:43:05 - root - INFO - Attempts left: 19
+31/07/2023 20:43:05 - root - INFO - _ a _ _ a _ _
+31/07/2023 20:43:06 - root - INFO - Incorrect guess.
+31/07/2023 20:43:06 - root - INFO - Attempts left: 18
+31/07/2023 20:43:06 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:43:19 - root - INFO - Incorrect guess.
+31/07/2023 20:43:19 - root - INFO - Attempts left: 19
+31/07/2023 20:43:19 - root - INFO - _ _ _ _ _ _ _
+31/07/2023 20:43:20 - root - INFO - Incorrect guess.
+31/07/2023 20:43:20 - root - INFO - Attempts left: 18
+31/07/2023 20:43:20 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:43:39 - root - INFO - Incorrect guess.
+31/07/2023 20:43:39 - root - INFO - Attempts left: 19
+31/07/2023 20:43:39 - root - INFO - _ _ _ _ _ _ _ _ _ _ _
+31/07/2023 20:43:40 - root - INFO - Correct guess!
+31/07/2023 20:43:40 - root - INFO - Attempts left: 19
+31/07/2023 20:43:40 - root - INFO - _ _ _ _ _ _ _ _ _ _ d
+31/07/2023 20:43:41 - root - INFO - Correct guess!
+31/07/2023 20:43:41 - root - INFO - Attempts left: 19
+31/07/2023 20:43:41 - root - INFO - _ _ _ _ e _ _ _ _ _ d
+31/07/2023 20:43:42 - root - INFO - Incorrect guess.
+31/07/2023 20:43:42 - root - INFO - Attempts left: 18
+31/07/2023 20:43:42 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:46:20 - root - INFO - Correct guess!
+31/07/2023 20:46:20 - root - INFO - Attempts left: 19
+31/07/2023 20:46:20 - root - INFO - _ _ _ _ a _
+31/07/2023 20:46:24 - root - INFO - Correct guess!
+31/07/2023 20:46:24 - root - INFO - Attempts left: 18
+31/07/2023 20:46:24 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:46:46 - root - INFO - Incorrect guess.
+31/07/2023 20:46:46 - root - INFO - Attempts left: 19
+31/07/2023 20:46:46 - root - INFO - _ _ _ _ _ _ _ _
+31/07/2023 20:46:47 - root - INFO - Correct guess!
+31/07/2023 20:46:47 - root - INFO - Attempts left: 18
+31/07/2023 20:46:47 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:47:38 - root - INFO - Correct guess!
+31/07/2023 20:47:38 - root - INFO - Attempts left: 19
+31/07/2023 20:47:38 - root - INFO - _ _ _ _ a _
+31/07/2023 20:47:40 - root - INFO - Incorrect guess.
+31/07/2023 20:47:40 - root - INFO - Attempts left: 18
+31/07/2023 20:47:40 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:48:14 - root - INFO - Incorrect guess.
+31/07/2023 20:48:14 - root - INFO - Attempts left: 19
+31/07/2023 20:48:14 - root - INFO - _ _ _ _ _ _ _ _ _
+31/07/2023 20:48:15 - root - INFO - Incorrect guess.
+31/07/2023 20:48:15 - root - INFO - Attempts left: 18
+31/07/2023 20:48:15 - root - ERROR - An unexpected error occurred: list index out of range
+31/07/2023 20:48:23 - root - INFO - Incorrect guess.
+31/07/2023 20:48:23 - root - INFO - Attempts left: 19
+31/07/2023 20:48:23 - root - INFO - _ _ _ _ _
+31/07/2023 20:48:23 - root - INFO - Correct guess!
+31/07/2023 20:48:24 - root - INFO - Incorrect guess.
+31/07/2023 20:48:24 - root - INFO - Attempts left: 18
+31/07/2023 20:48:24 - root - ERROR - An unexpected error occurred: list index out of range

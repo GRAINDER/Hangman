@@ -29,13 +29,11 @@ def visualize_hangman(attempts_left: int) -> None:
 
 def validate_guess(guess: str, word_to_guess: str, guessed_letters: Dict[str, bool]) -> bool:
     """Validate user input and return True if it's a single letter or the correct full word, otherwise False."""
-    if not guess.isalpha():
-        return False
-    if len(guess) == 1:
+    if len(guess) == 1 and guess.isalpha():
         return guess not in guessed_letters
-    # length of guess is >= 2 letters, so it's a word guess, so it's valid.
-    return True
-
+    elif guess == word_to_guess and len(guess) > 1:
+        return True
+    return False
 
 def hangman_game() -> None:
     # Pick a random word from the word list
@@ -50,15 +48,6 @@ def hangman_game() -> None:
     print("Welcome to Hangman!")
     print(display_word(word_to_guess, guessed_letters))
 
-    hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_guesses)
-    if attempts == 0:
-        print(f"Game Over! You have exhausted all guesses. The correct word was '{word_to_guess}'.")
-        logger.info(f"Game Over! The word was '{word_to_guess}'.")
-    
-    end_the_game(word_to_guess, guessed_letters, incorrect_guesses)
-
-
-def hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_guesses):
     while attempts > 0:
         guess: str = input("Guess a letter or the entire word: ").lower()
 
@@ -93,7 +82,11 @@ def hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_g
                 print("Incorrect guess.")
                 logger.info("Incorrect guess.")
                 attempts -= 1
-        print_status(word_to_guess, guessed_letters, attempts)
+        print(f"Attempts left: {attempts}")
+        logger.info(f"Attempts left: {attempts}")
+        visualize_hangman(attempts)
+        print(display_word(word_to_guess, guessed_letters))
+        logger.info(display_word(word_to_guess, guessed_letters))
 
         # Check if all letters have been guessed
         if all(guessed_letters.get(letter, False) for letter in word_to_guess):
@@ -101,16 +94,10 @@ def hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_g
             logger.info("Congratulations! You guessed all the letters correctly!")
             break
 
-
-def print_status(word_to_guess, guessed_letters, attempts):
-    print(f"Attempts left: {attempts}")
-    logger.info(f"Attempts left: {attempts}")
-    visualize_hangman(attempts)
-    print(display_word(word_to_guess, guessed_letters))
-    logger.info(display_word(word_to_guess, guessed_letters))
-
+    if attempts == 0:
+        print(f"Game Over! You have exhausted all guesses. The correct word was '{word_to_guess}'.")
+        logger.info(f"Game Over! The word was '{word_to_guess}'.")
     
-def end_the_game(word_to_guess, guessed_letters, incorrect_guesses):
     num_correct_guesses = sum(1 for letter in guessed_letters if letter in word_to_guess and guessed_letters[letter])
     # print(num_correct_guesses)
     # print(num_correct_guesses)
@@ -125,7 +112,6 @@ def end_the_game(word_to_guess, guessed_letters, incorrect_guesses):
     logger.info(f"Number of incorrect guesses: {len(incorrect_guesses)}")
     logger.info(f"Number of guesses left: {guesses_left}")
     logger.info(f"Incorrect guessed letters: {', '.join(incorrect_guesses)}")
-
 
 
 if __name__ == "__main__":

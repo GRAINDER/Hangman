@@ -3082,3 +3082,36 @@ INFO:__main__:Game terminated by the user.
 04/08/2023 11:56:47 - __main__ - INFO - Number of incorrect guesses: 7
 04/08/2023 11:56:47 - __main__ - INFO - Number of guesses left: 13
 04/08/2023 11:56:47 - __main__ - INFO - Incorrect guessed letters: a, s, d, g, h, j, q
+07/08/2023 18:35:06 - __main__ - INFO - Correct guess!
+07/08/2023 18:35:06 - __main__ - INFO - Attempts left: 20
+07/08/2023 18:35:06 - __main__ - INFO - _ _ _ _ _ a _ _
+07/08/2023 18:35:09 - __main__ - INFO - Incorrect guess.
+07/08/2023 18:35:09 - __main__ - INFO - Attempts left: 19
+07/08/2023 18:35:09 - __main__ - INFO - _ _ _ _ _ a _ _
+07/08/2023 18:35:11 - __main__ - INFO - Correct guess!
+07/08/2023 18:35:11 - __main__ - INFO - Attempts left: 19
+07/08/2023 18:35:11 - __main__ - INFO - _ _ _ _ _ a _ e
+07/08/2023 18:35:13 - __main__ - INFO - Incorrect guess.
+07/08/2023 18:35:13 - __main__ - INFO - Attempts left: 18
+07/08/2023 18:35:13 - __main__ - INFO - _ _ _ _ _ a _ e
+07/08/2023 18:35:13 - __main__ - INFO - Incorrect guess.
+07/08/2023 18:35:13 - __main__ - INFO - Attempts left: 17
+07/08/2023 18:35:13 - __main__ - INFO - _ _ _ _ _ a _ e
+07/08/2023 18:35:15 - __main__ - INFO - Correct guess!
+07/08/2023 18:35:15 - __main__ - INFO - Attempts left: 17
+07/08/2023 18:35:15 - __main__ - INFO - _ _ _ _ w a _ e
+07/08/2023 18:35:18 - __main__ - INFO - Incorrect guess.
+07/08/2023 18:35:18 - __main__ - INFO - Attempts left: 16
+07/08/2023 18:35:18 - __main__ - INFO - _ _ _ _ w a _ e
+07/08/2023 18:35:20 - __main__ - INFO - Incorrect guess.
+07/08/2023 18:35:20 - __main__ - INFO - Attempts left: 15
+07/08/2023 18:35:20 - __main__ - INFO - _ _ _ _ w a _ e
+07/08/2023 18:35:21 - __main__ - INFO - You already guessed this letter. Please try again.
+07/08/2023 18:35:21 - __main__ - INFO - Correct guess!
+07/08/2023 18:35:21 - __main__ - INFO - Attempts left: 15
+07/08/2023 18:35:21 - __main__ - INFO - s _ _ _ w a _ e
+07/08/2023 18:35:25 - __main__ - INFO - Congratulations! You guessed the word correctly!
+07/08/2023 18:35:25 - __main__ - INFO - Number of correct guesses: 5
+07/08/2023 18:35:25 - __main__ - INFO - Number of incorrect guesses: 5
+07/08/2023 18:35:25 - __main__ - INFO - Number of guesses left: 15
+07/08/2023 18:35:25 - __main__ - INFO - Incorrect guessed letters: d, g, q, h, l

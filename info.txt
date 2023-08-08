@@ -8,3 +8,4 @@
 8. If user insert more then 1 letter or number program should say inccorect input, but if user insert correct guessing word then program should accept input
 9. If user guess same letter, no matter it's correct or incorrect attemts should not be minus
 10. After game is finished program should print all details about game.
+11. 

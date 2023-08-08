@@ -1,5 +1,6 @@
 import random
 import logging
+import sqlite3
 from typing import List, Dict
 from visualisation import hangman_stages
 from words import words_list
@@ -77,7 +78,7 @@ class Hangman:
     def is_game_over(self) -> bool:
         return self.attempts == 0 or all(self.guessed_letters.get(letter, False) for letter in self.word_to_guess)
 
-    def end_the_game(self):
+    def end_the_game(self) -> Dict:
         num_correct_guesses = sum(1 for letter in self.guessed_letters if letter in self.word_to_guess and self.guessed_letters[letter])
         guesses_left = MAX_ATTEMPTS - len(self.incorrect_guesses)
         print(f"Number of correct guesses: {num_correct_guesses}")
@@ -90,21 +91,73 @@ class Hangman:
         logger.info(f"Number of guesses left: {guesses_left}")
         logger.info(f"Incorrect guessed letters: {', '.join(self.incorrect_guesses)}")
 
+        game_result = {
+            "num_correct_guesses": num_correct_guesses,
+            "num_incorrect_guesses": len(self.incorrect_guesses),
+            "guesses_left": guesses_left,
+            "incorrect_guesses": self.incorrect_guesses
+        }
+
+        return game_result
+
 
 class Player:
     def __init__(self):
         self.name = ""
+        self.surname = ""
+        self.email = ""
 
     def get_player_name(self):
         self.name = input("Enter your name: ")
+        self.surname = input("Enter your surname: ")
+        self.email = input("Enter your email: ")
 
 
 class HangmanGame(Hangman, Player):
     def __init__(self):
         super().__init__()
         self.get_player_name()
+        self.player_id = None
+        self.initialize_database()
+
+    def initialize_database(self):
+        conn = sqlite3.connect("hangman.db")
+        c = conn.cursor()
+
+        # Create players table
+        c.execute('''CREATE TABLE IF NOT EXISTS players (
+                    id INTEGER PRIMARY KEY,
+                    name TEXT,
+                    surname TEXT,
+                    email TEXT
+                )''')
+
+        # Create game_results table
+        c.execute('''CREATE TABLE IF NOT EXISTS game_results (
+                    id INTEGER PRIMARY KEY,
+                    player_id INTEGER,
+                    correct_guesses INTEGER,
+                    incorrect_guesses INTEGER,
+                    guesses_left INTEGER
+                )''')
+
+        conn.commit()
+        conn.close()
+
+    def create_player_record(self):
+        conn = sqlite3.connect("hangman.db")
+        c = conn.cursor()
+
+        c.execute("INSERT INTO players (name, surname, email) VALUES (?, ?, ?)",
+                  (self.name, self.surname, self.email))
+        self.player_id = c.lastrowid
+
+        conn.commit()
+        conn.close()
+
 
     def play(self):
+        self.create_player_record()
         self.start_game()
 
         while not self.is_game_over():
@@ -123,17 +176,29 @@ class HangmanGame(Hangman, Player):
             self.update_guess(guess)
             self.print_status()
 
-        self.end_the_game()
+        game_result = self.end_the_game()
+
         if self.attempts == 0:
             print(f"Game Over! You have exhausted all guesses. The correct word was '{self.word_to_guess}'.")
             logger.info(f"Game Over! The word was '{self.word_to_guess}'.")
+
+        self.save_game_result(game_result)
+
+    def save_game_result(self, game_result):
+        conn = sqlite3.connect("hangman.db")
+        c = conn.cursor()
+
+        c.execute("INSERT INTO game_results (player_id, correct_guesses, incorrect_guesses, guesses_left) VALUES (?, ?, ?, ?)",
+                  (self.player_id, game_result['num_correct_guesses'], game_result['num_incorrect_guesses'], game_result['guesses_left']))
+
+        conn.commit()
+        conn.close()
 
 
 if __name__ == "__main__":
     try:
         hangman_game = HangmanGame()
         hangman_game.play()
+
     except KeyboardInterrupt:
-        logger.info("Game terminated by the user.")
-    except Exception as e:
-        logger.error(f"An unexpected error occurred: {e}")
+        logger

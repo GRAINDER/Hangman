@@ -77,7 +77,11 @@ class Hangman:
     def is_game_over(self) -> bool:
         return self.attempts == 0 or all(self.guessed_letters.get(letter, False) for letter in self.word_to_guess)
 
+<<<<<<< HEAD
     def end_the_game(self):
+=======
+    def end_the_game(self) -> Dict:
+>>>>>>> d0af873b0de7f9a47cfff69b336368a7f0355651
         num_correct_guesses = sum(1 for letter in self.guessed_letters if letter in self.word_to_guess and self.guessed_letters[letter])
         guesses_left = MAX_ATTEMPTS - len(self.incorrect_guesses)
         print(f"Number of correct guesses: {num_correct_guesses}")
@@ -90,6 +94,18 @@ class Hangman:
         logger.info(f"Number of guesses left: {guesses_left}")
         logger.info(f"Incorrect guessed letters: {', '.join(self.incorrect_guesses)}")
 
+<<<<<<< HEAD
+=======
+        game_result = {
+            "num_correct_guesses": num_correct_guesses,
+            "num_incorrect_guesses": len(self.incorrect_guesses),
+            "guesses_left": guesses_left,
+            "incorrect_guesses": self.incorrect_guesses
+        }
+
+        return game_result
+
+>>>>>>> d0af873b0de7f9a47cfff69b336368a7f0355651
 
 class Player:
     def __init__(self):
@@ -123,16 +139,35 @@ class HangmanGame(Hangman, Player):
             self.update_guess(guess)
             self.print_status()
 
+<<<<<<< HEAD
         self.end_the_game()
         if self.attempts == 0:
             print(f"Game Over! You have exhausted all guesses. The correct word was '{self.word_to_guess}'.")
             logger.info(f"Game Over! The word was '{self.word_to_guess}'.")
+=======
+        game_result = self.end_the_game()
+
+        if self.attempts == 0:
+            print(f"Game Over! You have exhausted all guesses. The correct word was '{self.word_to_guess}'.")
+            logger.info(f"Game Over! The word was '{self.word_to_guess}'.")
+
+        return game_result
+>>>>>>> d0af873b0de7f9a47cfff69b336368a7f0355651
 
 
 if __name__ == "__main__":
     try:
         hangman_game = HangmanGame()
+<<<<<<< HEAD
         hangman_game.play()
+=======
+        game_result = hangman_game.play()
+
+        # Access the game result here and print or use it as needed
+        print("Game Result:")
+        print(game_result)
+
+>>>>>>> d0af873b0de7f9a47cfff69b336368a7f0355651
     except KeyboardInterrupt:
         logger.info("Game terminated by the user.")
     except Exception as e:

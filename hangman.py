@@ -6,131 +6,150 @@ from words import words_list
 
 MAX_ATTEMPTS = 20
 
-logging.basicConfig(level=logging.DEBUG,filename='hangman_data.log', filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
-
-# logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG, filename='hangman_data.log', filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 logger = logging.getLogger(__name__)
 
 
+class Hangman:
+    def __init__(self):
+        self.word_to_guess = ""
+        self.guessed_letters: Dict[str, bool] = {}
+        self.attempts = MAX_ATTEMPTS
+        self.incorrect_guesses: List[str] = []
 
+    def start_game(self):
+        self.word_to_guess = self.get_random_word(words_list)
+        print("Welcome to Hangman!")
+        print(self.display_word())
 
-def get_random_word(words: List[str]) -> str:
-    """Return a random word from the word list."""
-    return random.choice(words)
+    def get_random_word(self, words: List[str]) -> str:
+        """Return a random word from the word list."""
+        return random.choice(words)
 
-def display_word(word: str, guessed_letters: Dict[str, bool]) -> str:
-    """Display the word with underscores for unguessed letters."""
-    return " ".join(letter if guessed_letters.get(letter, False) else "_" for letter in word)
+    def display_word(self) -> str:
+        """Display the word with underscores for unguessed letters."""
+        return " ".join(letter if self.guessed_letters.get(letter, False) else "_" for letter in self.word_to_guess)
 
-def visualize_hangman(attempts_left: int) -> None:
-    """Visualize the hangman based on the number of attempts left."""
-    hangman_stage = hangman_stages
-    print(hangman_stage[20 - attempts_left])
+    def visualize_hangman(self) -> None:
+        """Visualize the hangman based on the number of attempts left."""
+        hangman_stage = hangman_stages
+        print(hangman_stage[20 - self.attempts])
 
-def validate_guess(guess: str, word_to_guess: str, guessed_letters: Dict[str, bool]) -> bool:
-    """Validate user input and return True if it's a single letter or the correct full word, otherwise False."""
-    if not guess.isalpha():
-        return False
-    if len(guess) == 1:
-        return guess not in guessed_letters
-    # length of guess is >= 2 letters, so it's a word guess, so it's valid.
-    return True
-
-
-def hangman_game() -> None:
-    # Pick a random word from the word list
-    word_to_guess = get_random_word(words_list)
-    guessed_letters: Dict[str, bool] = {}
-    attempts = MAX_ATTEMPTS
-    # max_attempts: int = 20
-    # attempts: int = max_attempts
-    incorrect_guesses: List[str] = []
-    
-
-    print("Welcome to Hangman!")
-    print(display_word(word_to_guess, guessed_letters))
-
-    hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_guesses)
-    if attempts == 0:
-        print(f"Game Over! You have exhausted all guesses. The correct word was '{word_to_guess}'.")
-        logger.info(f"Game Over! The word was '{word_to_guess}'.")
-    
-    end_the_game(word_to_guess, guessed_letters, incorrect_guesses)
-
-
-def hangman_game_main_loop(word_to_guess, guessed_letters, attempts, incorrect_guesses):
-    while attempts > 0:
-        guess: str = input("Guess a letter or the entire word: ").lower()
-
-        if guess in guessed_letters:
-            print("You already guessed this letter. Please try again.")
-            logger.info("You already guessed this letter. Please try again.")
-            continue
-
-        if not validate_guess(guess, word_to_guess, guessed_letters):
-            print("Invalid input. Please try again.")
-            logger.info("Invalid input. Please try again.")
-            continue
-
+    def validate_guess(self, guess: str) -> bool:
+        """Validate user input and return True if it's a single letter or the correct full word, otherwise False."""
+        if not guess.isalpha():
+            return False
         if len(guess) == 1:
-            if guess in word_to_guess:
+            return guess not in self.guessed_letters
+        # length of guess is >= 2 letters, so it's a word guess, so it's valid.
+        return True
+
+    def update_guess(self, guess: str) -> None:
+        """Update the guessed letters and incorrect guesses based on the user's input."""
+        if len(guess) == 1:
+            if guess in self.word_to_guess:
                 print("Correct guess!")
                 logger.info("Correct guess!")
-                guessed_letters[guess] = True
+                self.guessed_letters[guess] = True
             else:
                 print("Incorrect guess.")
                 logger.info("Incorrect guess.")
-                guessed_letters[guess] = True  # Mark incorrect guesses as guessed to avoid repetition
-                incorrect_guesses.append(guess)
-                attempts -= 1  # Minus one attempt for incorrect letter guesses
+                self.guessed_letters[guess] = True
+                self.incorrect_guesses.append(guess)
+                self.attempts -= 1
         else:
-            if guess == word_to_guess:
+            if guess == self.word_to_guess:
                 print("Congratulations! You guessed the word correctly!")
                 logger.info("Congratulations! You guessed the word correctly!")
-                guessed_letters[guess] = True
-                break
+                self.guessed_letters[guess] = True
             else:
                 print("Incorrect guess.")
                 logger.info("Incorrect guess.")
-                attempts -= 1
-        print_status(word_to_guess, guessed_letters, attempts)
+                self.attempts -= 1
 
-        # Check if all letters have been guessed
-        if all(guessed_letters.get(letter, False) for letter in word_to_guess):
-            print("Congratulations! You guessed all the letters correctly!")
-            logger.info("Congratulations! You guessed all the letters correctly!")
-            break
+    def print_status(self):
+        print(f"Attempts left: {self.attempts}")
+        logger.info(f"Attempts left: {self.attempts}")
+        self.visualize_hangman()
+        print(self.display_word())
+        logger.info(self.display_word())
+
+    def is_game_over(self) -> bool:
+        return self.attempts == 0 or all(self.guessed_letters.get(letter, False) for letter in self.word_to_guess)
+
+    def end_the_game(self) -> Dict:
+        num_correct_guesses = sum(1 for letter in self.guessed_letters if letter in self.word_to_guess and self.guessed_letters[letter])
+        guesses_left = MAX_ATTEMPTS - len(self.incorrect_guesses)
+        print(f"Number of correct guesses: {num_correct_guesses}")
+        print(f"Number of incorrect guesses: {len(self.incorrect_guesses)}")
+        print(f"Number of guesses left: {guesses_left}")
+        print(f"Incorrect guessed letters: {', '.join(self.incorrect_guesses)}")
+
+        logger.info(f"Number of correct guesses: {num_correct_guesses}")
+        logger.info(f"Number of incorrect guesses: {len(self.incorrect_guesses)}")
+        logger.info(f"Number of guesses left: {guesses_left}")
+        logger.info(f"Incorrect guessed letters: {', '.join(self.incorrect_guesses)}")
+
+        game_result = {
+            "num_correct_guesses": num_correct_guesses,
+            "num_incorrect_guesses": len(self.incorrect_guesses),
+            "guesses_left": guesses_left,
+            "incorrect_guesses": self.incorrect_guesses
+        }
+
+        return game_result
 
 
-def print_status(word_to_guess, guessed_letters, attempts):
-    print(f"Attempts left: {attempts}")
-    logger.info(f"Attempts left: {attempts}")
-    visualize_hangman(attempts)
-    print(display_word(word_to_guess, guessed_letters))
-    logger.info(display_word(word_to_guess, guessed_letters))
+class Player:
+    def __init__(self):
+        self.name = ""
 
-    
-def end_the_game(word_to_guess, guessed_letters, incorrect_guesses):
-    num_correct_guesses = sum(1 for letter in guessed_letters if letter in word_to_guess and guessed_letters[letter])
-    # print(num_correct_guesses)
-    # print(num_correct_guesses)
-    # print(incorrect_guesses)
-    guesses_left = MAX_ATTEMPTS - len(incorrect_guesses)
-    print(f"Number of correct guesses: {num_correct_guesses}")
-    print(f"Number of incorrect guesses: {len(incorrect_guesses)}")
-    print(f"Number of guesses left: {guesses_left}")
-    print(f"Incorrect guessed letters: {', '.join(incorrect_guesses)}")
+    def get_player_name(self):
+        self.name = input("Enter your name: ")
 
-    logger.info(f"Number of correct guesses: {num_correct_guesses}")
-    logger.info(f"Number of incorrect guesses: {len(incorrect_guesses)}")
-    logger.info(f"Number of guesses left: {guesses_left}")
-    logger.info(f"Incorrect guessed letters: {', '.join(incorrect_guesses)}")
 
+class HangmanGame(Hangman, Player):
+    def __init__(self):
+        super().__init__()
+        self.get_player_name()
+
+    def play(self):
+        self.start_game()
+
+        while not self.is_game_over():
+            guess = input("Guess a letter or the entire word: ").lower()
+
+            if guess in self.guessed_letters:
+                print("You already guessed this letter. Please try again.")
+                logger.info("You already guessed this letter. Please try again.")
+                continue
+
+            if not self.validate_guess(guess):
+                print("Invalid input. Please try again.")
+                logger.info("Invalid input. Please try again.")
+                continue
+
+            self.update_guess(guess)
+            self.print_status()
+
+        game_result = self.end_the_game()
+
+        if self.attempts == 0:
+            print(f"Game Over! You have exhausted all guesses. The correct word was '{self.word_to_guess}'.")
+            logger.info(f"Game Over! The word was '{self.word_to_guess}'.")
+
+        return game_result
 
 
 if __name__ == "__main__":
     try:
-        hangman_game()
+        hangman_game = HangmanGame()
+        game_result = hangman_game.play()
+
+        # Access the game result here and print or use it as needed
+        print("Game Result:")
+        print(game_result)
+
     except KeyboardInterrupt:
         logger.info("Game terminated by the user.")
     except Exception as e:

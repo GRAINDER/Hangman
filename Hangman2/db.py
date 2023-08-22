@@ -1,5 +1,5 @@
 import sqlite3
-from hangman_v2 import Hangman, Player
+from game import Hangman, Player
 
 
 class HangmanGame(Hangman, Player):
@@ -33,4 +33,4 @@ class HangmanGame(Hangman, Player):
         conn.commit()
         conn.close()
 
-    # ... rest of the methods remain the same
+  

@@ -3408,3 +3408,2734 @@ INFO:__main__:Game terminated by the user.
 08/08/2023 19:00:46 - __main__ - INFO - Number of guesses left: 12
 08/08/2023 19:00:46 - __main__ - INFO - Incorrect guessed letters: a, q, w, p, h, y, l, x
 >>>>>>> d0af873b0de7f9a47cfff69b336368a7f0355651
+09/08/2023 18:29:16 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:16 - __main__ - INFO - Attempts left: 20
+09/08/2023 18:29:16 - __main__ - INFO - _ _ _ _ _ _ a _ _ _ _
+09/08/2023 18:29:17 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:17 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:29:17 - __main__ - INFO - _ _ _ _ _ _ a _ _ _ _
+09/08/2023 18:29:18 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:18 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:29:18 - __main__ - INFO - _ _ _ _ _ _ a _ _ _ _
+09/08/2023 18:29:19 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:19 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:29:19 - __main__ - INFO - w _ _ _ _ _ a _ _ _ _
+09/08/2023 18:29:19 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:19 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:29:19 - __main__ - INFO - w _ _ _ _ _ a _ _ _ _
+09/08/2023 18:29:19 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:19 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:29:19 - __main__ - INFO - w _ r _ _ _ a _ _ _ _
+09/08/2023 18:29:20 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:20 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:29:20 - __main__ - INFO - w _ r _ _ t a t _ _ _
+09/08/2023 18:29:22 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:22 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:29:22 - __main__ - INFO - w _ r _ _ t a t _ _ _
+09/08/2023 18:29:22 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:22 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:29:22 - __main__ - INFO - w _ r _ _ t a t _ _ _
+09/08/2023 18:29:23 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:23 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:29:23 - __main__ - INFO - w _ r _ _ t a t i _ _
+09/08/2023 18:29:23 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:23 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:29:23 - __main__ - INFO - w o r _ _ t a t i o _
+09/08/2023 18:29:23 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:23 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:29:23 - __main__ - INFO - w o r _ _ t a t i o _
+09/08/2023 18:29:24 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:29:26 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:29:26 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:29:26 - __main__ - INFO - w o r _ _ t a t i o _
+09/08/2023 18:29:28 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:28 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:29:28 - __main__ - INFO - w o r k _ t a t i o _
+09/08/2023 18:29:29 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:29 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:29:29 - __main__ - INFO - w o r k s t a t i o _
+09/08/2023 18:29:30 - __main__ - INFO - Correct guess!
+09/08/2023 18:29:30 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:29:30 - __main__ - INFO - w o r k s t a t i o n
+09/08/2023 18:29:30 - __main__ - INFO - Number of correct guesses: 9
+09/08/2023 18:29:30 - __main__ - INFO - Number of incorrect guesses: 7
+09/08/2023 18:29:30 - __main__ - INFO - Number of guesses left: 13
+09/08/2023 18:29:30 - __main__ - INFO - Incorrect guessed letters: d, q, e, y, u, p, f
+09/08/2023 18:36:59 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:36:59 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:36:59 - __main__ - INFO - _ _ _ _ _ _ _ _
+09/08/2023 18:37:01 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:01 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:37:01 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:01 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:01 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:37:01 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:01 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:01 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:37:01 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:02 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:02 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:37:02 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:02 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:02 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:37:02 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:02 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:02 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:37:02 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:02 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:02 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:37:02 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:03 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:03 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:37:03 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:04 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:04 - __main__ - INFO - Attempts left: 11
+09/08/2023 18:37:04 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:04 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:04 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:37:04 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:04 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:04 - __main__ - INFO - Attempts left: 9
+09/08/2023 18:37:04 - __main__ - INFO - _ _ _ _ _ _ _ s
+09/08/2023 18:37:05 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:05 - __main__ - INFO - Attempts left: 9
+09/08/2023 18:37:05 - __main__ - INFO - r _ _ _ _ _ _ s
+09/08/2023 18:37:05 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:05 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:37:05 - __main__ - INFO - r _ _ _ _ _ _ s
+09/08/2023 18:37:06 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:06 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:37:06 - __main__ - INFO - r _ _ _ _ _ _ s
+09/08/2023 18:37:06 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:06 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:37:06 - __main__ - INFO - r _ _ _ _ i _ s
+09/08/2023 18:37:07 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:07 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:37:07 - __main__ - INFO - r o _ o _ i _ s
+09/08/2023 18:37:07 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:37:07 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:07 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:37:07 - __main__ - INFO - r o _ o _ i _ s
+09/08/2023 18:37:10 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:10 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:37:10 - __main__ - INFO - r o b o _ i _ s
+09/08/2023 18:37:11 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:11 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:37:11 - __main__ - INFO - r o b o t i _ s
+09/08/2023 18:37:12 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:12 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:37:12 - __main__ - INFO - r o b o t i c s
+09/08/2023 18:37:12 - __main__ - INFO - Number of correct guesses: 7
+09/08/2023 18:37:12 - __main__ - INFO - Number of incorrect guesses: 13
+09/08/2023 18:37:12 - __main__ - INFO - Number of guesses left: 7
+09/08/2023 18:37:12 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, w, e, u, p
+09/08/2023 18:37:48 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:48 - __main__ - INFO - Attempts left: 20
+09/08/2023 18:37:48 - __main__ - INFO - _ _ _ _ a _
+09/08/2023 18:37:48 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:48 - __main__ - INFO - Attempts left: 20
+09/08/2023 18:37:48 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:49 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:49 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:37:49 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:49 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:49 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:37:49 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:50 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:50 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:37:50 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:50 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:50 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:37:50 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:50 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:50 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:37:50 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:51 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:51 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:37:51 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:52 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:52 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:37:52 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:52 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:52 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:37:52 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:53 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:53 - __main__ - INFO - Attempts left: 11
+09/08/2023 18:37:53 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:53 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:53 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:37:53 - __main__ - INFO - s _ _ _ a _
+09/08/2023 18:37:54 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:54 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:37:54 - __main__ - INFO - s _ _ t a _
+09/08/2023 18:37:54 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:54 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:37:54 - __main__ - INFO - s y _ t a _
+09/08/2023 18:37:54 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:54 - __main__ - INFO - Attempts left: 9
+09/08/2023 18:37:54 - __main__ - INFO - s y _ t a _
+09/08/2023 18:37:56 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:37:56 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:37:56 - __main__ - INFO - s y _ t a _
+09/08/2023 18:37:58 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:58 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:37:58 - __main__ - INFO - s y n t a _
+09/08/2023 18:37:59 - __main__ - INFO - Correct guess!
+09/08/2023 18:37:59 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:37:59 - __main__ - INFO - s y n t a x
+09/08/2023 18:37:59 - __main__ - INFO - Number of correct guesses: 6
+09/08/2023 18:37:59 - __main__ - INFO - Number of incorrect guesses: 11
+09/08/2023 18:37:59 - __main__ - INFO - Number of guesses left: 9
+09/08/2023 18:37:59 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, w, q, e, r, u
+09/08/2023 18:38:13 - __main__ - INFO - Correct guess!
+09/08/2023 18:38:13 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:38:13 - __main__ - INFO - f i r e w a _ _
+09/08/2023 18:38:15 - __main__ - INFO - Correct guess!
+09/08/2023 18:38:15 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:38:15 - __main__ - INFO - f i r e w a l l
+09/08/2023 18:38:15 - __main__ - INFO - Number of correct guesses: 7
+09/08/2023 18:38:15 - __main__ - INFO - Number of incorrect guesses: 11
+09/08/2023 18:38:15 - __main__ - INFO - Number of guesses left: 9
+09/08/2023 18:38:15 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, w, q, e, r, u
+09/08/2023 18:38:19 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:38:19 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:38:19 - __main__ - INFO - d e _ e l _ _ e r
+09/08/2023 18:39:33 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:33 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:39:33 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:39:33 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:33 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:39:33 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:39:34 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:34 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:39:34 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:39:34 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:34 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:39:34 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:39:35 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:35 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:39:35 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:39:35 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:35 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:39:35 - __main__ - INFO - _ _ _ _ _ _ _ _ _ e _ _ _ _
+09/08/2023 18:39:35 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:35 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:39:35 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+09/08/2023 18:39:36 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:36 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:39:36 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+09/08/2023 18:39:36 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:36 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:39:36 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+09/08/2023 18:39:36 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:36 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:36 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+09/08/2023 18:39:36 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:36 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:36 - __main__ - INFO - _ i _ r _ _ r _ _ e _ _ _ r
+09/08/2023 18:39:37 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:37 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:37 - __main__ - INFO - _ i _ r o _ r o _ e _ _ o r
+09/08/2023 18:39:37 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:37 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:37 - __main__ - INFO - _ i _ r o p r o _ e _ _ o r
+09/08/2023 18:39:38 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:39:38 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:38 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:38 - __main__ - INFO - _ i _ r o p r o _ e s s o r
+09/08/2023 18:39:39 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:39:40 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:39:42 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:42 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:42 - __main__ - INFO - _ i c r o p r o c e s s o r
+09/08/2023 18:39:44 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:44 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:44 - __main__ - INFO - m i c r o p r o c e s s o r
+09/08/2023 18:39:44 - __main__ - INFO - Number of correct guesses: 8
+09/08/2023 18:39:44 - __main__ - INFO - Number of incorrect guesses: 8
+09/08/2023 18:39:44 - __main__ - INFO - Number of guesses left: 12
+09/08/2023 18:39:44 - __main__ - INFO - Incorrect guessed letters: a, d, f, q, w, t, y, u
+09/08/2023 18:39:48 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:48 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:48 - __main__ - INFO - t r o j a _
+09/08/2023 18:39:48 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:48 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:48 - __main__ - INFO - t r o j a n
+09/08/2023 18:39:48 - __main__ - INFO - Number of correct guesses: 6
+09/08/2023 18:39:48 - __main__ - INFO - Number of incorrect guesses: 8
+09/08/2023 18:39:48 - __main__ - INFO - Number of guesses left: 12
+09/08/2023 18:39:48 - __main__ - INFO - Incorrect guessed letters: a, d, f, q, w, t, y, u
+09/08/2023 18:39:53 - __main__ - INFO - Correct guess!
+09/08/2023 18:39:53 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:39:53 - __main__ - INFO - t e m p l a t e
+09/08/2023 18:39:53 - __main__ - INFO - Number of correct guesses: 6
+09/08/2023 18:39:53 - __main__ - INFO - Number of incorrect guesses: 8
+09/08/2023 18:39:53 - __main__ - INFO - Number of guesses left: 12
+09/08/2023 18:39:53 - __main__ - INFO - Incorrect guessed letters: a, d, f, q, w, t, y, u
+09/08/2023 18:39:57 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:39:57 - __main__ - INFO - Attempts left: 11
+09/08/2023 18:39:57 - __main__ - INFO - d e _ u _ _ i n _
+09/08/2023 18:42:15 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:15 - __main__ - INFO - Attempts left: 20
+09/08/2023 18:42:15 - __main__ - INFO - _ a _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:42:16 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:16 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:42:16 - __main__ - INFO - _ a _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:42:16 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:16 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:42:16 - __main__ - INFO - _ a _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:42:16 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:16 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:42:16 - __main__ - INFO - _ a _ _ _ _ _ _ _ _ _ _ _ _
+09/08/2023 18:42:17 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:17 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:42:17 - __main__ - INFO - _ a _ _ _ _ _ _ _ _ _ _ g _
+09/08/2023 18:42:17 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:17 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:42:17 - __main__ - INFO - _ a _ _ _ _ _ h _ _ _ _ g _
+09/08/2023 18:42:17 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:17 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:42:17 - __main__ - INFO - _ a _ _ _ _ _ h _ _ _ _ g _
+09/08/2023 18:42:18 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:18 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:42:18 - __main__ - INFO - _ a _ _ _ _ _ h _ _ _ _ g _
+09/08/2023 18:42:18 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:18 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:42:18 - __main__ - INFO - _ a _ _ _ _ _ h _ _ l _ g _
+09/08/2023 18:42:19 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:19 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:42:19 - __main__ - INFO - _ a _ _ _ _ _ h _ _ l _ g _
+09/08/2023 18:42:19 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:19 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:42:19 - __main__ - INFO - _ a _ _ _ _ _ h _ _ l _ g _
+09/08/2023 18:42:19 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:19 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:42:19 - __main__ - INFO - _ a _ _ _ e _ h _ _ l _ g _
+09/08/2023 18:42:20 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:20 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:42:20 - __main__ - INFO - _ a _ _ _ e _ h _ _ l _ g _
+09/08/2023 18:42:20 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:20 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:42:20 - __main__ - INFO - _ a _ _ t e _ h _ _ l _ g _
+09/08/2023 18:42:21 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:21 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:42:21 - __main__ - INFO - _ a _ _ t e _ h _ _ l _ g y
+09/08/2023 18:42:22 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:22 - __main__ - INFO - Attempts left: 11
+09/08/2023 18:42:22 - __main__ - INFO - _ a _ _ t e _ h _ _ l _ g y
+09/08/2023 18:42:22 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:22 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:42:22 - __main__ - INFO - _ a _ _ t e _ h _ _ l _ g y
+09/08/2023 18:42:23 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:23 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:42:23 - __main__ - INFO - _ a _ o t e _ h _ o l o g y
+09/08/2023 18:42:24 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:24 - __main__ - INFO - Attempts left: 9
+09/08/2023 18:42:24 - __main__ - INFO - _ a _ o t e _ h _ o l o g y
+09/08/2023 18:42:25 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:25 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:42:25 - __main__ - INFO - _ a _ o t e _ h _ o l o g y
+09/08/2023 18:42:25 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:25 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:42:25 - __main__ - INFO - _ a _ o t e _ h _ o l o g y
+09/08/2023 18:42:25 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:25 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:42:25 - __main__ - INFO - _ a _ o t e c h _ o l o g y
+09/08/2023 18:42:27 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:27 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:42:27 - __main__ - INFO - _ a _ o t e c h _ o l o g y
+09/08/2023 18:42:28 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:28 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:42:28 - __main__ - INFO - n a n o t e c h n o l o g y
+09/08/2023 18:42:28 - __main__ - INFO - Number of correct guesses: 10
+09/08/2023 18:42:28 - __main__ - INFO - Number of incorrect guesses: 13
+09/08/2023 18:42:28 - __main__ - INFO - Number of guesses left: 7
+09/08/2023 18:42:28 - __main__ - INFO - Incorrect guessed letters: s, d, f, j, k, q, w, r, u, i, p, z, x
+09/08/2023 18:42:34 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:34 - __main__ - INFO - Attempts left: 19
+09/08/2023 18:42:34 - __main__ - INFO - _ _ _ _ _
+09/08/2023 18:42:35 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:35 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:42:35 - __main__ - INFO - _ _ _ _ _
+09/08/2023 18:42:36 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:36 - __main__ - INFO - Attempts left: 18
+09/08/2023 18:42:36 - __main__ - INFO - s _ _ _ _
+09/08/2023 18:42:36 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:36 - __main__ - INFO - Attempts left: 17
+09/08/2023 18:42:36 - __main__ - INFO - s _ _ _ _
+09/08/2023 18:42:37 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:37 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:42:37 - __main__ - INFO - s _ _ _ _
+09/08/2023 18:42:37 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:37 - __main__ - INFO - Attempts left: 16
+09/08/2023 18:42:37 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:37 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:37 - __main__ - INFO - Attempts left: 15
+09/08/2023 18:42:37 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:37 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:37 - __main__ - INFO - Attempts left: 14
+09/08/2023 18:42:37 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:38 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:38 - __main__ - INFO - Attempts left: 13
+09/08/2023 18:42:38 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:38 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:38 - __main__ - INFO - Attempts left: 12
+09/08/2023 18:42:38 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:39 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:39 - __main__ - INFO - Attempts left: 11
+09/08/2023 18:42:39 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:39 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:42:39 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:39 - __main__ - INFO - Attempts left: 10
+09/08/2023 18:42:39 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:40 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:40 - __main__ - INFO - Attempts left: 9
+09/08/2023 18:42:40 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:42 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:42:42 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:42:43 - __main__ - INFO - You already guessed this letter. Please try again.
+09/08/2023 18:42:43 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:43 - __main__ - INFO - Attempts left: 8
+09/08/2023 18:42:43 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:43 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:43 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:42:43 - __main__ - INFO - s _ e _ _
+09/08/2023 18:42:44 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:44 - __main__ - INFO - Attempts left: 7
+09/08/2023 18:42:44 - __main__ - INFO - s h e _ _
+09/08/2023 18:42:45 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:45 - __main__ - INFO - Attempts left: 6
+09/08/2023 18:42:45 - __main__ - INFO - s h e _ _
+09/08/2023 18:42:45 - __main__ - INFO - Incorrect guess.
+09/08/2023 18:42:45 - __main__ - INFO - Attempts left: 5
+09/08/2023 18:42:45 - __main__ - INFO - s h e _ _
+09/08/2023 18:42:46 - __main__ - INFO - Correct guess!
+09/08/2023 18:42:46 - __main__ - INFO - Attempts left: 5
+09/08/2023 18:42:46 - __main__ - INFO - s h e l l
+09/08/2023 18:42:46 - __main__ - INFO - Number of correct guesses: 4
+09/08/2023 18:42:46 - __main__ - INFO - Number of incorrect guesses: 15
+09/08/2023 18:42:46 - __main__ - INFO - Number of guesses left: 5
+09/08/2023 18:42:46 - __main__ - INFO - Incorrect guessed letters: a, d, q, w, r, t, y, u, i, o, p, f, g, j, k
+09/08/2023 19:09:00 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:09:00 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:09:00 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:09:00 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:09:00 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:09:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:09:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:09:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/08/2023 19:09:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:09:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:09:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:44] "[35m[1mGET /play HTTP/1.1[0m" 500 -
+09/08/2023 19:09:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:44] "GET /play?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:09:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:44] "GET /play?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/08/2023 19:09:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:44] "GET /play?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:09:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:09:44] "GET /play?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:10:53 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:10:53 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:10:54 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:10:54 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:10:55 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:10:55 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:10:56 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:10:56 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:10:57 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:10:57 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:14:15 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:14:15 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:15:22 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:22] "[33mGET /names HTTP/1.1[0m" 404 -
+09/08/2023 19:15:22 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:15:25 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanFlask.home() missing 1 required positional argument: 'self'
+09/08/2023 19:15:25 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:15:49 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanFlask.home() missing 1 required positional argument: 'self'
+09/08/2023 19:15:49 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:15:54 - app - ERROR - Exception on /play [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanFlask.play() missing 1 required positional argument: 'self'
+09/08/2023 19:15:54 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:54] "[35m[1mGET /play HTTP/1.1[0m" 500 -
+09/08/2023 19:15:57 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:15:57] "[33mGET /index HTTP/1.1[0m" 404 -
+09/08/2023 19:16:16 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanFlask.home() missing 1 required positional argument: 'self'
+09/08/2023 19:16:16 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:16:22 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanFlask.home() missing 1 required positional argument: 'self'
+09/08/2023 19:16:22 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:16:34 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:16:34 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:16:34 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:16:34 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:16:34 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:16:39 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:16:39 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:16:39 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:16:39 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:16:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:18:07 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:18:07 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:19:27 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:19:27 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:19:27 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:19:28 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:19:28 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:19:31 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:19:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:19:32 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:19:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:19:32 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:19:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:19:32 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:19:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:23:41 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:23:41 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:25:25 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:25:25 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:25:25 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:25:26 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:25:26 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:25:36 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:25:36] "GET / HTTP/1.1" 200 -
+09/08/2023 19:26:00 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:00 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:01 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:01 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:06 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:06 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:07 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:07 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:08 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:26:08] "GET / HTTP/1.1" 200 -
+09/08/2023 19:26:08 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:26:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:26:09 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:26:09] "GET / HTTP/1.1" 200 -
+09/08/2023 19:26:35 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:35 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:35 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:35 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:49 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:49 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:50 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:50 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:51 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:51 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:51 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:51 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:51 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:26:52 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:26:52 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:26:52 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:26:54 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:26:54] "GET / HTTP/1.1" 200 -
+09/08/2023 19:27:00 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:27:00] "[33mGET /index HTTP/1.1[0m" 404 -
+09/08/2023 19:27:00 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:27:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:27:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:27:46] "GET / HTTP/1.1" 200 -
+09/08/2023 19:27:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:27:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:28:00 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:28:00] "[33mGET /index HTTP/1.1[0m" 404 -
+09/08/2023 19:28:05 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:28:05] "[33mGET /result HTTP/1.1[0m" 404 -
+09/08/2023 19:28:06 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:28:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:28:09 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:28:09] "GET / HTTP/1.1" 200 -
+09/08/2023 19:28:09 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:28:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/08/2023 19:31:29 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:31:29 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:31:35 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanGame.home() missing 1 required positional argument: 'self'
+09/08/2023 19:31:35 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:31:38 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\37064\repos\PTUA3_CodeAcademy_course\.venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HangmanGame.home() missing 1 required positional argument: 'self'
+09/08/2023 19:31:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:31:47 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:31:47 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:31:47 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:31:48 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:31:48 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:31:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:31:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:31:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/08/2023 19:31:51 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:31:51 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:31:53 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:31:53 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:31:53 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:31:53 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:31:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:32:11 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:32:11 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:32:12 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:32:12 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:32:28 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:32:28 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:32:29 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:32:29 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:32:30 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:32:30 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:32:36 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:32:36 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:32:36 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:32:37 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:32:37 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:32:40 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:32:41 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:32:41 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:32:41 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:32:42 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:32:42 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:32:42 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:32:42 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:32:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:34:35 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:34:35 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:35:32 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:35:32 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:35:32 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:35:33 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:35:33 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:35:36 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:35:37 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:35:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:35:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:35:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:35:38 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:35:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:35:45 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:35:45 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:35:46 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:35:46 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:36:35 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:36:35 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:36:36 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:36:36 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:36:41 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:36:41 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:36:41 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:36:41 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:36:41 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:36:43 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:36:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:36:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:36:44 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:36:45 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:36:45 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:36:45 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:36:45 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:36:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:36:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:36:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:36:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/08/2023 19:36:46 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:36:49 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:49] "[35m[1mGET /play HTTP/1.1[0m" 500 -
+09/08/2023 19:36:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:50] "[36mGET /play?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:36:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:50] "GET /play?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/08/2023 19:36:50 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:36:50] "[36mGET /play?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:37:38 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:37:38 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:37:54 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:37:54 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:37:54 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:40:24 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/08/2023 19:40:24 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+09/08/2023 19:40:24 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:40:24 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:40:24 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+09/08/2023 19:40:29 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:40:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/08/2023 19:40:29 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:40:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+09/08/2023 19:40:29 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:40:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+09/08/2023 19:40:29 - werkzeug - INFO - 127.0.0.1 - - [09/Aug/2023 19:40:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+09/08/2023 19:41:27 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+09/08/2023 19:41:27 - werkzeug - INFO -  * Restarting with stat
+09/08/2023 19:41:28 - werkzeug - WARNING -  * Debugger is active!
+09/08/2023 19:41:28 - werkzeug - INFO -  * Debugger PIN: 622-521-209
+10/08/2023 18:09:19 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:19 - __main__ - INFO - Attempts left: 20
+10/08/2023 18:09:19 - __main__ - INFO - _ _ _ _ a _ _
+10/08/2023 18:09:20 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:20 - __main__ - INFO - Attempts left: 19
+10/08/2023 18:09:20 - __main__ - INFO - _ _ _ _ a _ _
+10/08/2023 18:09:21 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:21 - __main__ - INFO - Attempts left: 18
+10/08/2023 18:09:21 - __main__ - INFO - _ _ _ _ a _ _
+10/08/2023 18:09:21 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:21 - __main__ - INFO - Attempts left: 17
+10/08/2023 18:09:21 - __main__ - INFO - _ _ _ _ a _ _
+10/08/2023 18:09:21 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:21 - __main__ - INFO - Attempts left: 17
+10/08/2023 18:09:21 - __main__ - INFO - _ _ _ _ a _ e
+10/08/2023 18:09:22 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:22 - __main__ - INFO - Attempts left: 17
+10/08/2023 18:09:22 - __main__ - INFO - _ _ _ r a _ e
+10/08/2023 18:09:22 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:22 - __main__ - INFO - Attempts left: 17
+10/08/2023 18:09:22 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:23 - __main__ - INFO - Invalid input. Please try again.
+10/08/2023 18:09:25 - __main__ - INFO - Invalid input. Please try again.
+10/08/2023 18:09:28 - __main__ - INFO - You already guessed this letter. Please try again.
+10/08/2023 18:09:30 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:30 - __main__ - INFO - Attempts left: 16
+10/08/2023 18:09:30 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:30 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:30 - __main__ - INFO - Attempts left: 15
+10/08/2023 18:09:30 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:31 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:31 - __main__ - INFO - Attempts left: 14
+10/08/2023 18:09:31 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:31 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:31 - __main__ - INFO - Attempts left: 13
+10/08/2023 18:09:31 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:32 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:32 - __main__ - INFO - Attempts left: 12
+10/08/2023 18:09:32 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:33 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:33 - __main__ - INFO - Attempts left: 11
+10/08/2023 18:09:33 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:34 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:34 - __main__ - INFO - Attempts left: 10
+10/08/2023 18:09:34 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:34 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:34 - __main__ - INFO - Attempts left: 9
+10/08/2023 18:09:34 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:35 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:35 - __main__ - INFO - Attempts left: 8
+10/08/2023 18:09:35 - __main__ - INFO - _ t _ r a _ e
+10/08/2023 18:09:35 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:35 - __main__ - INFO - Attempts left: 8
+10/08/2023 18:09:35 - __main__ - INFO - _ t _ r a g e
+10/08/2023 18:09:36 - __main__ - INFO - Incorrect guess.
+10/08/2023 18:09:36 - __main__ - INFO - Attempts left: 7
+10/08/2023 18:09:36 - __main__ - INFO - _ t _ r a g e
+10/08/2023 18:09:37 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:37 - __main__ - INFO - Attempts left: 7
+10/08/2023 18:09:37 - __main__ - INFO - s t _ r a g e
+10/08/2023 18:09:37 - __main__ - INFO - You already guessed this letter. Please try again.
+10/08/2023 18:09:39 - __main__ - INFO - Correct guess!
+10/08/2023 18:09:39 - __main__ - INFO - Attempts left: 7
+10/08/2023 18:09:39 - __main__ - INFO - s t o r a g e
+10/08/2023 18:09:39 - __main__ - INFO - Number of correct guesses: 7
+10/08/2023 18:09:39 - __main__ - INFO - Number of incorrect guesses: 13
+10/08/2023 18:09:39 - __main__ - INFO - Number of guesses left: 7
+10/08/2023 18:09:39 - __main__ - INFO - Incorrect guessed letters: d, q, w, x, c, v, b, n, m, k, l, h, f
+10/08/2023 18:15:16 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+10/08/2023 18:15:16 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+10/08/2023 18:15:16 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:22:34 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+10/08/2023 18:22:34 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+10/08/2023 18:22:34 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:30:14 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+10/08/2023 18:30:14 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+10/08/2023 18:30:14 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:43:04 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+10/08/2023 18:43:04 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+10/08/2023 18:43:04 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:43:04 - werkzeug - WARNING -  * Debugger is active!
+10/08/2023 18:43:04 - werkzeug - INFO -  * Debugger PIN: 114-296-098
+10/08/2023 18:43:09 - werkzeug - INFO - 127.0.0.1 - - [10/Aug/2023 18:43:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10/08/2023 18:43:10 - werkzeug - INFO - 127.0.0.1 - - [10/Aug/2023 18:43:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10/08/2023 18:43:10 - werkzeug - INFO - 127.0.0.1 - - [10/Aug/2023 18:43:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10/08/2023 18:43:10 - werkzeug - INFO - 127.0.0.1 - - [10/Aug/2023 18:43:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10/08/2023 18:43:10 - werkzeug - INFO - 127.0.0.1 - - [10/Aug/2023 18:43:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10/08/2023 18:44:23 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+10/08/2023 18:44:23 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:44:23 - werkzeug - WARNING -  * Debugger is active!
+10/08/2023 18:44:23 - werkzeug - INFO -  * Debugger PIN: 114-296-098
+10/08/2023 18:44:26 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\app.py', reloading
+10/08/2023 18:44:26 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:44:26 - werkzeug - WARNING -  * Debugger is active!
+10/08/2023 18:44:26 - werkzeug - INFO -  * Debugger PIN: 114-296-098
+10/08/2023 18:45:51 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\game.py', reloading
+10/08/2023 18:45:51 - werkzeug - INFO -  * Restarting with stat
+10/08/2023 18:45:52 - werkzeug - WARNING -  * Debugger is active!
+10/08/2023 18:45:52 - werkzeug - INFO -  * Debugger PIN: 114-296-098
+10/08/2023 18:45:54 - werkzeug - INFO -  * Detected change in 'C:\\Users\\37064\\repos\\Hangman\\Hangman2\\game.py', reloading
+10/08/2023 18:45:54 - werkzeug - INFO -  * Restarting with stat
+17/08/2023 18:15:55 - __main__ - INFO - Correct guess!
+17/08/2023 18:15:55 - __main__ - INFO - Attempts left: 20
+17/08/2023 18:15:56 - __main__ - INFO - _ _ _ _ _ a _ _ _ _ _
+17/08/2023 18:15:57 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:15:57 - __main__ - INFO - Attempts left: 19
+17/08/2023 18:15:57 - __main__ - INFO - _ _ _ _ _ a _ _ _ _ _
+17/08/2023 18:15:58 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:15:58 - __main__ - INFO - Attempts left: 18
+17/08/2023 18:15:58 - __main__ - INFO - _ _ _ _ _ a _ _ _ _ _
+17/08/2023 18:15:58 - __main__ - INFO - Correct guess!
+17/08/2023 18:15:58 - __main__ - INFO - Attempts left: 18
+17/08/2023 18:15:58 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:15:59 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:15:59 - __main__ - INFO - Attempts left: 17
+17/08/2023 18:15:59 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:15:59 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:15:59 - __main__ - INFO - Attempts left: 16
+17/08/2023 18:15:59 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:15:59 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:15:59 - __main__ - INFO - Attempts left: 15
+17/08/2023 18:15:59 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:16:01 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:01 - __main__ - INFO - Attempts left: 14
+17/08/2023 18:16:01 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:16:01 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:01 - __main__ - INFO - Attempts left: 13
+17/08/2023 18:16:01 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:16:01 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:01 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:01 - __main__ - INFO - _ _ _ g _ a _ _ _ _ g
+17/08/2023 18:16:02 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:02 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:02 - __main__ - INFO - _ r _ g r a _ _ _ _ g
+17/08/2023 18:16:02 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:02 - __main__ - INFO - Attempts left: 11
+17/08/2023 18:16:02 - __main__ - INFO - _ r _ g r a _ _ _ _ g
+17/08/2023 18:16:02 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:02 - __main__ - INFO - Attempts left: 10
+17/08/2023 18:16:02 - __main__ - INFO - _ r _ g r a _ _ _ _ g
+17/08/2023 18:16:02 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:02 - __main__ - INFO - Attempts left: 9
+17/08/2023 18:16:02 - __main__ - INFO - _ r _ g r a _ _ _ _ g
+17/08/2023 18:16:03 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:03 - __main__ - INFO - Attempts left: 9
+17/08/2023 18:16:03 - __main__ - INFO - _ r _ g r a _ _ i _ g
+17/08/2023 18:16:03 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:03 - __main__ - INFO - Attempts left: 9
+17/08/2023 18:16:03 - __main__ - INFO - _ r o g r a _ _ i _ g
+17/08/2023 18:16:05 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:05 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:05 - __main__ - INFO - _ r o g r a _ _ i _ g
+17/08/2023 18:16:06 - __main__ - INFO - You already guessed this letter. Please try again.
+17/08/2023 18:16:09 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:09 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:09 - __main__ - INFO - p r o g r a _ _ i _ g
+17/08/2023 18:16:11 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:11 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:11 - __main__ - INFO - p r o g r a m m i _ g
+17/08/2023 18:16:13 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:13 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:13 - __main__ - INFO - p r o g r a m m i n g
+17/08/2023 18:16:13 - __main__ - INFO - Number of correct guesses: 8
+17/08/2023 18:16:13 - __main__ - INFO - Number of incorrect guesses: 11
+17/08/2023 18:16:13 - __main__ - INFO - Number of guesses left: 9
+17/08/2023 18:16:13 - __main__ - INFO - Incorrect guessed letters: d, f, h, j, k, q, w, e, t, y, u
+17/08/2023 18:16:20 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:20 - __main__ - INFO - Attempts left: 19
+17/08/2023 18:16:20 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:20 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:20 - __main__ - INFO - Attempts left: 18
+17/08/2023 18:16:20 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:21 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:21 - __main__ - INFO - Attempts left: 17
+17/08/2023 18:16:21 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:21 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:21 - __main__ - INFO - Attempts left: 16
+17/08/2023 18:16:21 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:21 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:21 - __main__ - INFO - Attempts left: 15
+17/08/2023 18:16:21 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:21 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:21 - __main__ - INFO - Attempts left: 14
+17/08/2023 18:16:21 - __main__ - INFO - _ _ _ _ _ _ _
+17/08/2023 18:16:22 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:22 - __main__ - INFO - Attempts left: 14
+17/08/2023 18:16:22 - __main__ - INFO - _ _ _ _ _ _ k
+17/08/2023 18:16:22 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:22 - __main__ - INFO - Attempts left: 13
+17/08/2023 18:16:22 - __main__ - INFO - _ _ _ _ _ _ k
+17/08/2023 18:16:22 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:22 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:22 - __main__ - INFO - _ _ _ _ _ _ k
+17/08/2023 18:16:23 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:23 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:23 - __main__ - INFO - _ _ _ w _ _ k
+17/08/2023 18:16:23 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:23 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:23 - __main__ - INFO - _ e _ w _ _ k
+17/08/2023 18:16:23 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:23 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:23 - __main__ - INFO - _ e _ w _ r k
+17/08/2023 18:16:23 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:23 - __main__ - INFO - Attempts left: 12
+17/08/2023 18:16:23 - __main__ - INFO - _ e t w _ r k
+17/08/2023 18:16:23 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:23 - __main__ - INFO - Attempts left: 11
+17/08/2023 18:16:23 - __main__ - INFO - _ e t w _ r k
+17/08/2023 18:16:24 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:24 - __main__ - INFO - Attempts left: 10
+17/08/2023 18:16:24 - __main__ - INFO - _ e t w _ r k
+17/08/2023 18:16:24 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:24 - __main__ - INFO - Attempts left: 9
+17/08/2023 18:16:24 - __main__ - INFO - _ e t w _ r k
+17/08/2023 18:16:24 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:24 - __main__ - INFO - Attempts left: 9
+17/08/2023 18:16:24 - __main__ - INFO - _ e t w o r k
+17/08/2023 18:16:24 - __main__ - INFO - Incorrect guess.
+17/08/2023 18:16:24 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:24 - __main__ - INFO - _ e t w o r k
+17/08/2023 18:16:25 - __main__ - INFO - Correct guess!
+17/08/2023 18:16:25 - __main__ - INFO - Attempts left: 8
+17/08/2023 18:16:25 - __main__ - INFO - n e t w o r k
+17/08/2023 18:16:25 - __main__ - INFO - Number of correct guesses: 7
+17/08/2023 18:16:25 - __main__ - INFO - Number of incorrect guesses: 12
+17/08/2023 18:16:25 - __main__ - INFO - Number of guesses left: 8
+17/08/2023 18:16:25 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, l, q, y, u, i, p
+21/08/2023 18:13:07 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:07 - __main__ - INFO - Attempts left: 20
+21/08/2023 18:13:07 - __main__ - INFO - a _ _ _ _ _ _ _ _
+21/08/2023 18:13:22 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:22 - __main__ - INFO - Attempts left: 19
+21/08/2023 18:13:22 - __main__ - INFO - a _ _ _ _ _ _ _ _
+21/08/2023 18:13:24 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:24 - __main__ - INFO - Attempts left: 19
+21/08/2023 18:13:24 - __main__ - INFO - a _ g _ _ _ _ _ _
+21/08/2023 18:13:26 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:26 - __main__ - INFO - Attempts left: 18
+21/08/2023 18:13:26 - __main__ - INFO - a _ g _ _ _ _ _ _
+21/08/2023 18:13:27 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:27 - __main__ - INFO - Attempts left: 17
+21/08/2023 18:13:27 - __main__ - INFO - a _ g _ _ _ _ _ _
+21/08/2023 18:13:29 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:29 - __main__ - INFO - Attempts left: 16
+21/08/2023 18:13:29 - __main__ - INFO - a _ g _ _ _ _ _ _
+21/08/2023 18:13:30 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:30 - __main__ - INFO - Attempts left: 16
+21/08/2023 18:13:30 - __main__ - INFO - a _ g _ r _ _ _ _
+21/08/2023 18:13:35 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:35 - __main__ - INFO - Attempts left: 15
+21/08/2023 18:13:35 - __main__ - INFO - a _ g _ r _ _ _ _
+21/08/2023 18:13:35 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:35 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:13:35 - __main__ - INFO - a _ g _ r _ _ _ _
+21/08/2023 18:13:35 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:35 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:13:35 - __main__ - INFO - a _ g _ r i _ _ _
+21/08/2023 18:13:36 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:36 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:13:36 - __main__ - INFO - a _ g o r i _ _ _
+21/08/2023 18:13:37 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:13:37 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:13:37 - __main__ - INFO - a _ g o r i _ _ _
+21/08/2023 18:13:48 - __main__ - INFO - Congratulations! You guessed the word correctly!
+21/08/2023 18:13:48 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:13:48 - __main__ - INFO - a _ g o r i _ _ _
+21/08/2023 18:13:53 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:53 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:13:53 - __main__ - INFO - a l g o r i _ _ _
+21/08/2023 18:13:55 - __main__ - INFO - Correct guess!
+21/08/2023 18:13:55 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:13:55 - __main__ - INFO - a l g o r i t _ _
+21/08/2023 18:13:59 - __main__ - INFO - You already guessed this letter. Please try again.
+21/08/2023 18:14:03 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:03 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:14:03 - __main__ - INFO - a l g o r i t _ m
+21/08/2023 18:14:05 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:05 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:14:05 - __main__ - INFO - a l g o r i t h m
+21/08/2023 18:14:05 - __main__ - INFO - Number of correct guesses: 10
+21/08/2023 18:14:05 - __main__ - INFO - Number of incorrect guesses: 7
+21/08/2023 18:14:05 - __main__ - INFO - Number of guesses left: 13
+21/08/2023 18:14:05 - __main__ - INFO - Incorrect guessed letters: d, q, w, e, y, u, p
+21/08/2023 18:14:43 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:43 - __main__ - INFO - Attempts left: 19
+21/08/2023 18:14:43 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:44 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:44 - __main__ - INFO - Attempts left: 18
+21/08/2023 18:14:44 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:45 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:45 - __main__ - INFO - Attempts left: 17
+21/08/2023 18:14:45 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:46 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:46 - __main__ - INFO - Attempts left: 16
+21/08/2023 18:14:46 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:47 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:47 - __main__ - INFO - Attempts left: 15
+21/08/2023 18:14:47 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:48 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:48 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:14:48 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:48 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:48 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:14:48 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:49 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:49 - __main__ - INFO - Attempts left: 12
+21/08/2023 18:14:49 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:50 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:50 - __main__ - INFO - Attempts left: 11
+21/08/2023 18:14:50 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:50 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:50 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:14:50 - __main__ - INFO - _ _ _ _
+21/08/2023 18:14:51 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:51 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:14:51 - __main__ - INFO - _ _ _ e
+21/08/2023 18:14:51 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:14:51 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:14:51 - __main__ - INFO - _ _ _ e
+21/08/2023 18:14:52 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:52 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:14:52 - __main__ - INFO - _ _ t e
+21/08/2023 18:14:54 - __main__ - INFO - Congratulations! You guessed the word correctly!
+21/08/2023 18:14:54 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:14:54 - __main__ - INFO - _ _ t e
+21/08/2023 18:14:57 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:57 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:14:57 - __main__ - INFO - b _ t e
+21/08/2023 18:14:58 - __main__ - INFO - Correct guess!
+21/08/2023 18:14:58 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:14:58 - __main__ - INFO - b y t e
+21/08/2023 18:14:58 - __main__ - INFO - Number of correct guesses: 5
+21/08/2023 18:14:58 - __main__ - INFO - Number of incorrect guesses: 11
+21/08/2023 18:14:58 - __main__ - INFO - Number of guesses left: 9
+21/08/2023 18:14:58 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, w, r
+21/08/2023 18:15:32 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:32 - __main__ - INFO - Attempts left: 19
+21/08/2023 18:15:32 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:33 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:33 - __main__ - INFO - Attempts left: 18
+21/08/2023 18:15:33 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:33 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:33 - __main__ - INFO - Attempts left: 17
+21/08/2023 18:15:33 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:34 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:34 - __main__ - INFO - Attempts left: 16
+21/08/2023 18:15:34 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:34 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:34 - __main__ - INFO - Attempts left: 15
+21/08/2023 18:15:34 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:34 - __main__ - INFO - Invalid input. Please try again.
+21/08/2023 18:15:35 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:35 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:15:35 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:35 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:35 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:15:35 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:36 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:36 - __main__ - INFO - Attempts left: 12
+21/08/2023 18:15:36 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:36 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:36 - __main__ - INFO - Attempts left: 11
+21/08/2023 18:15:36 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:36 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:36 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:15:36 - __main__ - INFO - _ _ _ _ _ _ _ _
+21/08/2023 18:15:37 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:37 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:15:37 - __main__ - INFO - r _ _ _ _ _ _ _
+21/08/2023 18:15:37 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:37 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:15:37 - __main__ - INFO - r _ _ _ t _ _ _
+21/08/2023 18:15:37 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:37 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:15:37 - __main__ - INFO - r _ _ _ t _ _ _
+21/08/2023 18:15:37 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:37 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:37 - __main__ - INFO - r _ _ _ t _ _ _
+21/08/2023 18:15:38 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:38 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:38 - __main__ - INFO - r _ _ _ t i _ _
+21/08/2023 18:15:38 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:38 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:38 - __main__ - INFO - r o _ o t i _ _
+21/08/2023 18:15:41 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:41 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:41 - __main__ - INFO - r o b o t i _ _
+21/08/2023 18:15:43 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:43 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:43 - __main__ - INFO - r o b o t i c _
+21/08/2023 18:15:44 - __main__ - INFO - You already guessed this letter. Please try again.
+21/08/2023 18:15:46 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:46 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:46 - __main__ - INFO - r o b o t i c s
+21/08/2023 18:15:46 - __main__ - INFO - Number of correct guesses: 7
+21/08/2023 18:15:46 - __main__ - INFO - Number of incorrect guesses: 12
+21/08/2023 18:15:46 - __main__ - INFO - Number of guesses left: 8
+21/08/2023 18:15:46 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, e, y, u
+21/08/2023 18:15:51 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:51 - __main__ - INFO - Attempts left: 19
+21/08/2023 18:15:51 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:51 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:51 - __main__ - INFO - Attempts left: 18
+21/08/2023 18:15:51 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:52 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:52 - __main__ - INFO - Attempts left: 17
+21/08/2023 18:15:52 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:52 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:52 - __main__ - INFO - Attempts left: 16
+21/08/2023 18:15:52 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:52 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:52 - __main__ - INFO - Attempts left: 15
+21/08/2023 18:15:52 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:52 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:52 - __main__ - INFO - Attempts left: 14
+21/08/2023 18:15:52 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:53 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:53 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:15:53 - __main__ - INFO - _ _ _ _ _
+21/08/2023 18:15:53 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:53 - __main__ - INFO - Attempts left: 13
+21/08/2023 18:15:53 - __main__ - INFO - _ _ _ _ l
+21/08/2023 18:15:54 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:54 - __main__ - INFO - Attempts left: 12
+21/08/2023 18:15:54 - __main__ - INFO - _ _ _ _ l
+21/08/2023 18:15:54 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:55 - __main__ - INFO - Attempts left: 11
+21/08/2023 18:15:55 - __main__ - INFO - _ _ _ _ l
+21/08/2023 18:15:55 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:55 - __main__ - INFO - Attempts left: 11
+21/08/2023 18:15:55 - __main__ - INFO - _ _ _ e l
+21/08/2023 18:15:55 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:55 - __main__ - INFO - Attempts left: 10
+21/08/2023 18:15:55 - __main__ - INFO - _ _ _ e l
+21/08/2023 18:15:56 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:56 - __main__ - INFO - Attempts left: 9
+21/08/2023 18:15:56 - __main__ - INFO - _ _ _ e l
+21/08/2023 18:15:56 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:56 - __main__ - INFO - Attempts left: 8
+21/08/2023 18:15:56 - __main__ - INFO - _ _ _ e l
+21/08/2023 18:15:57 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:57 - __main__ - INFO - Attempts left: 7
+21/08/2023 18:15:57 - __main__ - INFO - _ _ _ e l
+21/08/2023 18:15:57 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:57 - __main__ - INFO - Attempts left: 7
+21/08/2023 18:15:57 - __main__ - INFO - _ i _ e l
+21/08/2023 18:15:58 - __main__ - INFO - Incorrect guess.
+21/08/2023 18:15:58 - __main__ - INFO - Attempts left: 6
+21/08/2023 18:15:58 - __main__ - INFO - _ i _ e l
+21/08/2023 18:15:58 - __main__ - INFO - Correct guess!
+21/08/2023 18:15:58 - __main__ - INFO - Attempts left: 6
+21/08/2023 18:15:58 - __main__ - INFO - p i _ e l
+21/08/2023 18:16:03 - __main__ - INFO - Congratulations! You guessed the word correctly!
+21/08/2023 18:16:03 - __main__ - INFO - Attempts left: 6
+21/08/2023 18:16:03 - __main__ - INFO - p i _ e l
+21/08/2023 18:44:39 - __main__ - INFO - You already guessed this letter. Please try again.
+21/08/2023 18:44:44 - __main__ - INFO - You already guessed this letter. Please try again.
+21/08/2023 18:44:55 - __main__ - INFO - You already guessed this letter. Please try again.
+21/08/2023 18:44:56 - __main__ - INFO - Correct guess!
+21/08/2023 18:44:56 - __main__ - INFO - Attempts left: 6
+21/08/2023 18:44:56 - __main__ - INFO - p i x e l
+21/08/2023 18:44:56 - __main__ - INFO - Number of correct guesses: 6
+21/08/2023 18:44:56 - __main__ - INFO - Number of incorrect guesses: 14
+21/08/2023 18:44:56 - __main__ - INFO - Number of guesses left: 6
+21/08/2023 18:44:56 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, r, t, y, u, o
+22/08/2023 18:33:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:33:53 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:33:53 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:33:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:33:54 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:33:54 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:33:56 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:33:57 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:33:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:33:58 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:33:58 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:33:59 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:33:59 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:33:59 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:33:59 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:33:59 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:33:59 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:34:00 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:00 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:00 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:34:00 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:00 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:34:00 - __main__ - INFO - _ _ _ _ _
+22/08/2023 18:34:01 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:01 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:34:01 - __main__ - INFO - q _ _ _ _
+22/08/2023 18:34:01 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:01 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:34:01 - __main__ - INFO - q _ _ _ _
+22/08/2023 18:34:02 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:02 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:34:02 - __main__ - INFO - q _ e _ e
+22/08/2023 18:34:02 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:02 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:34:02 - __main__ - INFO - q _ e _ e
+22/08/2023 18:34:06 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:34:08 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:08 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:34:08 - __main__ - INFO - q u e u e
+22/08/2023 18:34:08 - __main__ - INFO - Number of correct guesses: 3
+22/08/2023 18:34:08 - __main__ - INFO - Number of incorrect guesses: 9
+22/08/2023 18:34:08 - __main__ - INFO - Number of guesses left: 11
+22/08/2023 18:34:08 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, w, r
+22/08/2023 18:34:18 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:18 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:34:18 - __main__ - INFO - _ _ a _ _ _ _ _ _
+22/08/2023 18:34:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:18 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:34:18 - __main__ - INFO - _ _ a _ _ _ _ _ _
+22/08/2023 18:34:19 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:19 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:34:19 - __main__ - INFO - f _ a _ _ _ _ _ _
+22/08/2023 18:34:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:19 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:34:19 - __main__ - INFO - f _ a _ _ _ _ _ _
+22/08/2023 18:34:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:19 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:34:19 - __main__ - INFO - f _ a _ _ _ _ _ _
+22/08/2023 18:34:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:19 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:34:20 - __main__ - INFO - f _ a _ _ _ _ _ _
+22/08/2023 18:34:20 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:20 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:34:20 - __main__ - INFO - f _ a _ _ _ _ _ k
+22/08/2023 18:34:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:20 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:34:20 - __main__ - INFO - f _ a _ _ _ _ _ k
+22/08/2023 18:34:22 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:34:22 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:22 - __main__ - INFO - f _ a _ _ _ _ _ k
+22/08/2023 18:34:23 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:23 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:23 - __main__ - INFO - f _ a _ _ w _ _ k
+22/08/2023 18:34:23 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:23 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:23 - __main__ - INFO - f _ a _ e w _ _ k
+22/08/2023 18:34:24 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:24 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:24 - __main__ - INFO - f r a _ e w _ r k
+22/08/2023 18:34:27 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:34:27 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:27 - __main__ - INFO - f r a _ e w _ r k
+22/08/2023 18:34:32 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:34:36 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:36 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:36 - __main__ - INFO - f r a m e w _ r k
+22/08/2023 18:34:36 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:34:37 - __main__ - INFO - Correct guess!
+22/08/2023 18:34:37 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:34:37 - __main__ - INFO - f r a m e w o r k
+22/08/2023 18:34:37 - __main__ - INFO - Number of correct guesses: 9
+22/08/2023 18:34:37 - __main__ - INFO - Number of incorrect guesses: 6
+22/08/2023 18:34:37 - __main__ - INFO - Number of guesses left: 14
+22/08/2023 18:34:37 - __main__ - INFO - Incorrect guessed letters: d, g, h, j, l, q
+22/08/2023 18:35:03 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:03 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:35:03 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:04 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:04 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:35:04 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:04 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:04 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:35:04 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:04 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:04 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:35:04 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:05 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:05 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:35:05 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:05 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:05 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:35:05 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:05 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:05 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:35:05 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:06 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:06 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:35:06 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:06 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:06 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:35:06 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:06 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:06 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:35:06 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:07 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:07 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:35:07 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:35:07 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:07 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:35:07 - __main__ - INFO - _ _ _ t a _
+22/08/2023 18:35:07 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:07 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:35:07 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:35:07 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:07 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:35:07 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:35:09 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:09 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:35:09 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:35:09 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:09 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:35:09 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:35:09 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:09 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:35:09 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:35:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:35:10 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:35:10 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:35:12 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:35:12 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:35:12 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:35:15 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:35:17 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:17 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:35:17 - __main__ - INFO - s y _ t a x
+22/08/2023 18:35:18 - __main__ - INFO - Correct guess!
+22/08/2023 18:35:18 - __main__ - INFO - Congratulations! You guessed all the letters correctly!
+22/08/2023 18:35:18 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:35:18 - __main__ - INFO - s y n t a x
+22/08/2023 18:35:18 - __main__ - INFO - Number of correct guesses: 7
+22/08/2023 18:35:18 - __main__ - INFO - Number of incorrect guesses: 14
+22/08/2023 18:35:18 - __main__ - INFO - Number of guesses left: 6
+22/08/2023 18:35:18 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, q, w, e, r, u, z, c, v
+22/08/2023 18:39:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:46 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:39:46 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:47 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:39:47 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:47 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:39:47 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:48 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:39:48 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:48 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:39:48 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:49 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:39:49 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:49 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:39:49 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:50 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:50 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:39:50 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:51 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:51 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:39:51 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:51 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:51 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:39:51 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:52 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:52 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:39:52 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:39:52 - __main__ - INFO - Correct guess!
+22/08/2023 18:39:52 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:39:52 - __main__ - INFO - r _ _ _ _ _ _ _
+22/08/2023 18:39:52 - __main__ - INFO - Correct guess!
+22/08/2023 18:39:52 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:39:53 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:39:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:53 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:39:53 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:39:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:54 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:39:54 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:39:54 - __main__ - INFO - Correct guess!
+22/08/2023 18:39:54 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:39:54 - __main__ - INFO - r _ _ _ t i _ _
+22/08/2023 18:39:54 - __main__ - INFO - Correct guess!
+22/08/2023 18:39:54 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:39:54 - __main__ - INFO - r o _ o t i _ _
+22/08/2023 18:39:55 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:39:55 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:39:55 - __main__ - INFO - r o _ o t i _ _
+22/08/2023 18:39:59 - __main__ - INFO - Correct guess!
+22/08/2023 18:39:59 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:39:59 - __main__ - INFO - r o _ o t i _ s
+22/08/2023 18:40:02 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:40:02 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:40:02 - __main__ - INFO - r o _ o t i _ s
+22/08/2023 18:40:06 - __main__ - INFO - Correct guess!
+22/08/2023 18:40:06 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:40:06 - __main__ - INFO - r o b o t i _ s
+22/08/2023 18:40:10 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:41:40 - __main__ - INFO - Game interrupted by user.
+22/08/2023 18:43:12 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:12 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:43:12 - __main__ - INFO - _ _ _ _ a _ _
+22/08/2023 18:43:12 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:12 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:43:12 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:13 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:43:13 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:13 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:43:13 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:13 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:43:13 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:14 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:43:14 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:14 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:43:14 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:15 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:43:15 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:15 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:43:15 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:16 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:43:16 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:16 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:43:16 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:16 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:43:16 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:16 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:43:16 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:16 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:43:16 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:17 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:43:17 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:17 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:43:17 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 18:43:18 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:18 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:43:18 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 18:43:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:18 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:43:18 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 18:43:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:19 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:43:19 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 18:43:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:19 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:43:19 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 18:43:20 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:20 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:43:20 - __main__ - INFO - c o _ _ a _ d
+22/08/2023 18:43:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:20 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:43:20 - __main__ - INFO - c o _ _ a _ d
+22/08/2023 18:43:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:20 - __main__ - INFO - Attempts left: 1
+22/08/2023 18:43:20 - __main__ - INFO - c o _ _ a _ d
+22/08/2023 18:43:21 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:21 - __main__ - INFO - Attempts left: 1
+22/08/2023 18:43:21 - __main__ - INFO - c o _ _ a n d
+22/08/2023 18:43:22 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:22 - __main__ - INFO - Attempts left: 1
+22/08/2023 18:43:22 - __main__ - INFO - c o m m a n d
+22/08/2023 18:43:22 - __main__ - INFO - Number of correct guesses: 6
+22/08/2023 18:43:22 - __main__ - INFO - Number of incorrect guesses: 19
+22/08/2023 18:43:22 - __main__ - INFO - Number of guesses left: 1
+22/08/2023 18:43:22 - __main__ - INFO - Incorrect guessed letters: f, g, h, j, k, l, q, w, e, r, t, y, u, i, p, z, x, v, b
+22/08/2023 18:43:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:34 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:43:34 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:34 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:43:34 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:35 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:43:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:35 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:43:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:35 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:43:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:35 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:43:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:36 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:43:36 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:37 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:43:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:37 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:43:37 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:38 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:43:38 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:38 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:43:38 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:43:39 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:39 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:43:39 - __main__ - INFO - _ e _ _ e _
+22/08/2023 18:43:40 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:40 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:43:40 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:41 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:41 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:43:41 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:41 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:41 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:43:41 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:42 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:42 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:43:42 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:43 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:43:43 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:43 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:43:43 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:44 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:44 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:43:44 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:45 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:43:45 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:43:45 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:43:45 - __main__ - INFO - _ e r _ e r
+22/08/2023 18:43:46 - __main__ - INFO - Correct guess!
+22/08/2023 18:43:46 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:43:46 - __main__ - INFO - _ e r v e r
+22/08/2023 18:43:48 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:43:48 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:43:48 - __main__ - INFO - _ e r v e r
+22/08/2023 18:48:33 - __main__ - INFO - Correct guess!
+22/08/2023 18:48:33 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:48:33 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:34 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:48:34 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:34 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:48:34 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:34 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:48:34 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:34 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:48:34 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:35 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:48:35 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:35 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:48:35 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:48:36 - __main__ - INFO - Correct guess!
+22/08/2023 18:48:36 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:48:36 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:48:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:36 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:48:36 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:48:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:37 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:48:37 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:48:37 - __main__ - INFO - Correct guess!
+22/08/2023 18:48:37 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:48:37 - __main__ - INFO - _ e _ _ l a _ e
+22/08/2023 18:48:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:37 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:48:37 - __main__ - INFO - _ e _ _ l a _ e
+22/08/2023 18:48:38 - __main__ - INFO - Correct guess!
+22/08/2023 18:48:38 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:48:38 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:48:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:38 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:48:38 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:48:39 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:48:39 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:48:39 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:48:41 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:48:41 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:48:41 - __main__ - INFO - t e m p l a t e
+22/08/2023 18:48:41 - __main__ - INFO - Number of correct guesses: 7
+22/08/2023 18:48:41 - __main__ - INFO - Number of incorrect guesses: 11
+22/08/2023 18:48:41 - __main__ - INFO - Number of guesses left: 9
+22/08/2023 18:48:41 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, q, w, r, y, u
+22/08/2023 18:49:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:15 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:49:15 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:16 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:49:16 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:16 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:49:16 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:16 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:49:16 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:16 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:49:16 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:17 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:49:17 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:17 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:49:17 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:17 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:49:17 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:18 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:49:18 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:18 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:49:18 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:19 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:49:19 - __main__ - INFO - _ _ _ _ _ _ _ _
+22/08/2023 18:49:19 - __main__ - INFO - Correct guess!
+22/08/2023 18:49:19 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:49:19 - __main__ - INFO - r _ _ _ _ _ _ _
+22/08/2023 18:49:19 - __main__ - INFO - Correct guess!
+22/08/2023 18:49:19 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:49:19 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:49:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:19 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:49:19 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:49:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:20 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:49:20 - __main__ - INFO - r _ _ _ t _ _ _
+22/08/2023 18:49:20 - __main__ - INFO - Correct guess!
+22/08/2023 18:49:20 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:49:20 - __main__ - INFO - r _ _ _ t i _ _
+22/08/2023 18:49:21 - __main__ - INFO - Correct guess!
+22/08/2023 18:49:21 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:49:21 - __main__ - INFO - r o _ o t i _ _
+22/08/2023 18:49:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:49:21 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:49:21 - __main__ - INFO - r o _ o t i _ _
+22/08/2023 18:49:23 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:49:23 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:49:23 - __main__ - INFO - r o b o t i c s
+22/08/2023 18:49:23 - __main__ - INFO - Number of correct guesses: 8
+22/08/2023 18:49:23 - __main__ - INFO - Number of incorrect guesses: 14
+22/08/2023 18:49:23 - __main__ - INFO - Number of guesses left: 6
+22/08/2023 18:49:23 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, w, e, y, u, p
+22/08/2023 18:51:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:11 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:51:11 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:12 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:51:12 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:12 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:51:12 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:12 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:51:12 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:12 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:51:12 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:13 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:51:13 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:13 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:51:13 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:13 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:51:13 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:14 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:51:14 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:14 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:51:14 - __main__ - INFO - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+22/08/2023 18:51:14 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:14 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:51:14 - __main__ - INFO - _ _ _ _ _ _ _ _ _ e _ _ _ _
+22/08/2023 18:51:14 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:14 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:51:14 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+22/08/2023 18:51:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:15 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:51:15 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+22/08/2023 18:51:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:15 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:51:15 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+22/08/2023 18:51:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:15 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:51:15 - __main__ - INFO - _ _ _ r _ _ r _ _ e _ _ _ r
+22/08/2023 18:51:15 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:15 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:51:15 - __main__ - INFO - _ i _ r _ _ r _ _ e _ _ _ r
+22/08/2023 18:51:15 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:16 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:51:16 - __main__ - INFO - _ i _ r o _ r o _ e _ _ o r
+22/08/2023 18:51:16 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:16 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:51:16 - __main__ - INFO - _ i _ r o p r o _ e _ _ o r
+22/08/2023 18:51:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:17 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:51:17 - __main__ - INFO - _ i _ r o p r o _ e _ _ o r
+22/08/2023 18:51:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:17 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:51:17 - __main__ - INFO - _ i _ r o p r o _ e _ _ o r
+22/08/2023 18:51:18 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:18 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:51:18 - __main__ - INFO - _ i c r o p r o c e _ _ o r
+22/08/2023 18:51:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:51:18 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:51:18 - __main__ - INFO - _ i c r o p r o c e _ _ o r
+22/08/2023 18:51:23 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:51:23 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:51:23 - __main__ - INFO - _ i c r o p r o c e _ _ o r
+22/08/2023 18:51:25 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:25 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:51:25 - __main__ - INFO - m i c r o p r o c e _ _ o r
+22/08/2023 18:51:25 - __main__ - INFO - Correct guess!
+22/08/2023 18:51:25 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:51:25 - __main__ - INFO - m i c r o p r o c e s s o r
+22/08/2023 18:51:25 - __main__ - INFO - Number of correct guesses: 9
+22/08/2023 18:51:25 - __main__ - INFO - Number of incorrect guesses: 16
+22/08/2023 18:51:25 - __main__ - INFO - Number of guesses left: 4
+22/08/2023 18:51:25 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, w, t, y, u, z, x, v
+22/08/2023 18:53:29 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:29 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:53:29 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:53:30 - __main__ - INFO - Correct guess!
+22/08/2023 18:53:30 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:53:30 - __main__ - INFO - _ _ d _ _ _
+22/08/2023 18:53:30 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:30 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:53:30 - __main__ - INFO - _ _ d _ _ _
+22/08/2023 18:53:31 - __main__ - INFO - Correct guess!
+22/08/2023 18:53:31 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:53:31 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:31 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:31 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:53:31 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:31 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:31 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:53:31 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:32 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:32 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:53:32 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:32 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:32 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:53:32 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:33 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:33 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:53:33 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:33 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:33 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:53:33 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:33 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:33 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:53:33 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:33 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:33 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:53:33 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:34 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:53:34 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:53:35 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:53:35 - __main__ - INFO - _ _ d _ _ g
+22/08/2023 18:53:35 - __main__ - INFO - Correct guess!
+22/08/2023 18:53:35 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:53:35 - __main__ - INFO - _ _ d i _ g
+22/08/2023 18:53:35 - __main__ - INFO - Correct guess!
+22/08/2023 18:53:35 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:53:35 - __main__ - INFO - _ o d i _ g
+22/08/2023 18:53:38 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:53:38 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:53:38 - __main__ - INFO - c o d i n g
+22/08/2023 18:53:38 - __main__ - INFO - Number of correct guesses: 7
+22/08/2023 18:53:38 - __main__ - INFO - Number of incorrect guesses: 12
+22/08/2023 18:53:38 - __main__ - INFO - Number of guesses left: 8
+22/08/2023 18:53:38 - __main__ - INFO - Incorrect guessed letters: a, f, h, j, k, q, w, e, r, t, y, u
+22/08/2023 18:55:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:16 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:55:16 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:17 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:55:17 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:17 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:55:17 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:18 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:55:18 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:18 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:55:18 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:18 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:55:18 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:19 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:55:19 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 18:55:19 - __main__ - INFO - Correct guess!
+22/08/2023 18:55:19 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:55:19 - __main__ - INFO - _ _ _ _ l _
+22/08/2023 18:55:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:20 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:55:20 - __main__ - INFO - _ _ _ _ l _
+22/08/2023 18:55:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:20 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:55:20 - __main__ - INFO - _ _ _ _ l _
+22/08/2023 18:55:21 - __main__ - INFO - Correct guess!
+22/08/2023 18:55:21 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:55:21 - __main__ - INFO - _ _ _ _ l e
+22/08/2023 18:55:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:21 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:55:21 - __main__ - INFO - _ _ _ _ l e
+22/08/2023 18:55:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:21 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:55:21 - __main__ - INFO - _ _ _ _ l e
+22/08/2023 18:55:22 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:22 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:55:22 - __main__ - INFO - _ _ _ _ l e
+22/08/2023 18:55:22 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:22 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:55:22 - __main__ - INFO - _ _ _ _ l e
+22/08/2023 18:55:22 - __main__ - INFO - Correct guess!
+22/08/2023 18:55:22 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:55:22 - __main__ - INFO - _ _ _ i l e
+22/08/2023 18:55:22 - __main__ - INFO - Correct guess!
+22/08/2023 18:55:22 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:55:22 - __main__ - INFO - _ o _ i l e
+22/08/2023 18:55:24 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:24 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:55:24 - __main__ - INFO - _ o _ i l e
+22/08/2023 18:55:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:25 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:55:25 - __main__ - INFO - _ o _ i l e
+22/08/2023 18:55:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:25 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:55:25 - __main__ - INFO - _ o _ i l e
+22/08/2023 18:55:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:55:25 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:55:25 - __main__ - INFO - _ o _ i l e
+22/08/2023 18:55:26 - __main__ - INFO - Correct guess!
+22/08/2023 18:55:26 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:55:26 - __main__ - INFO - _ o b i l e
+22/08/2023 18:55:29 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:55:29 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:55:29 - __main__ - INFO - m o b i l e
+22/08/2023 18:55:29 - __main__ - INFO - Number of correct guesses: 6
+22/08/2023 18:55:29 - __main__ - INFO - Number of incorrect guesses: 17
+22/08/2023 18:55:29 - __main__ - INFO - Number of guesses left: 3
+22/08/2023 18:55:29 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, r, t, y, u, z, x, c, v
+22/08/2023 18:56:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:20 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:56:20 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:23 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:23 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:56:23 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:25 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:56:25 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:26 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:56:26 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:26 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:56:26 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:26 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:56:26 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:56:27 - __main__ - INFO - Correct guess!
+22/08/2023 18:56:27 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:56:27 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:56:28 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:28 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:56:28 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:56:28 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:56:28 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:28 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:56:29 - __main__ - INFO - Correct guess!
+22/08/2023 18:56:29 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:29 - __main__ - INFO - _ _ _ w _ _ k
+22/08/2023 18:56:29 - __main__ - INFO - Correct guess!
+22/08/2023 18:56:29 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:29 - __main__ - INFO - _ e _ w _ _ k
+22/08/2023 18:56:29 - __main__ - INFO - Correct guess!
+22/08/2023 18:56:29 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:29 - __main__ - INFO - _ e _ w _ r k
+22/08/2023 18:56:30 - __main__ - INFO - Correct guess!
+22/08/2023 18:56:30 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:30 - __main__ - INFO - _ e t w _ r k
+22/08/2023 18:56:32 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:56:32 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:56:32 - __main__ - INFO - n e t w o r k
+22/08/2023 18:56:32 - __main__ - INFO - Number of correct guesses: 7
+22/08/2023 18:56:32 - __main__ - INFO - Number of incorrect guesses: 8
+22/08/2023 18:56:32 - __main__ - INFO - Number of guesses left: 12
+22/08/2023 18:56:32 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, l, q
+22/08/2023 18:57:57 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:57:57 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:57:57 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:57:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:57:58 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:57:58 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:57:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:57:58 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:57:58 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:57:59 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:57:59 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:57:59 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:58:00 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:00 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:58:00 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:58:01 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:01 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:58:01 - __main__ - INFO - _ _ _ _ _ _ _
+22/08/2023 18:58:03 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:03 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:58:03 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:58:04 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:04 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:58:04 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:58:04 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:04 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:04 - __main__ - INFO - _ _ _ _ _ _ k
+22/08/2023 18:58:05 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:05 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:05 - __main__ - INFO - _ _ _ w _ _ k
+22/08/2023 18:58:05 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:05 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:05 - __main__ - INFO - _ e _ w _ _ k
+22/08/2023 18:58:06 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:06 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:06 - __main__ - INFO - _ e _ w _ r k
+22/08/2023 18:58:08 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:58:08 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:08 - __main__ - INFO - n e t w o r k
+22/08/2023 18:58:08 - __main__ - INFO - Number of correct guesses: 7
+22/08/2023 18:58:08 - __main__ - INFO - Number of incorrect guesses: 8
+22/08/2023 18:58:08 - __main__ - INFO - Number of guesses left: 12
+22/08/2023 18:58:08 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, l, q
+22/08/2023 18:58:51 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:51 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:58:51 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:51 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:51 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:58:51 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:52 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:52 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:58:52 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:52 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:52 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:58:52 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:52 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:52 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:58:52 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:52 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:52 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:58:52 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:53 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:58:53 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:53 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:58:53 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:54 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:58:54 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:54 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:58:54 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:55 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:55 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:58:55 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:55 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:55 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:58:55 - __main__ - INFO - _ _ _ _ a _
+22/08/2023 18:58:55 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:55 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:58:55 - __main__ - INFO - _ _ _ t a _
+22/08/2023 18:58:55 - __main__ - INFO - Correct guess!
+22/08/2023 18:58:55 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:58:55 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:58:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:56 - __main__ - INFO - Attempts left: 8
+22/08/2023 18:58:56 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:58:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:56 - __main__ - INFO - Attempts left: 7
+22/08/2023 18:58:56 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:58:57 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:58:57 - __main__ - INFO - Attempts left: 6
+22/08/2023 18:58:57 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:58:59 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 18:59:01 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:01 - __main__ - INFO - Attempts left: 5
+22/08/2023 18:59:01 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:59:02 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:02 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:59:02 - __main__ - INFO - _ y _ t a _
+22/08/2023 18:59:02 - __main__ - INFO - Correct guess!
+22/08/2023 18:59:02 - __main__ - INFO - Attempts left: 4
+22/08/2023 18:59:02 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:59:02 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:02 - __main__ - INFO - Attempts left: 3
+22/08/2023 18:59:02 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:59:03 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:03 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:59:03 - __main__ - INFO - _ y _ t a x
+22/08/2023 18:59:05 - __main__ - INFO - Congratulations! You guessed the word correctly!
+22/08/2023 18:59:05 - __main__ - INFO - Attempts left: 2
+22/08/2023 18:59:05 - __main__ - INFO - s y n t a x
+22/08/2023 18:59:05 - __main__ - INFO - Number of correct guesses: 6
+22/08/2023 18:59:05 - __main__ - INFO - Number of incorrect guesses: 18
+22/08/2023 18:59:05 - __main__ - INFO - Number of guesses left: 2
+22/08/2023 18:59:05 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, l, q, w, e, r, u, i, b, p, z, c, v
+22/08/2023 18:59:35 - __main__ - INFO - Correct guess!
+22/08/2023 18:59:35 - __main__ - INFO - Attempts left: 20
+22/08/2023 18:59:35 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:35 - __main__ - INFO - Attempts left: 19
+22/08/2023 18:59:35 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:36 - __main__ - INFO - Attempts left: 18
+22/08/2023 18:59:36 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:36 - __main__ - INFO - Attempts left: 17
+22/08/2023 18:59:36 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:36 - __main__ - INFO - Attempts left: 16
+22/08/2023 18:59:36 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:37 - __main__ - INFO - Attempts left: 15
+22/08/2023 18:59:37 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:37 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:59:37 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 18:59:37 - __main__ - INFO - Correct guess!
+22/08/2023 18:59:37 - __main__ - INFO - Attempts left: 14
+22/08/2023 18:59:37 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:59:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:38 - __main__ - INFO - Attempts left: 13
+22/08/2023 18:59:38 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:59:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:38 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:59:38 - __main__ - INFO - _ _ _ _ l a _ _
+22/08/2023 18:59:38 - __main__ - INFO - Correct guess!
+22/08/2023 18:59:38 - __main__ - INFO - Attempts left: 12
+22/08/2023 18:59:38 - __main__ - INFO - _ e _ _ l a _ e
+22/08/2023 18:59:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:38 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:59:38 - __main__ - INFO - _ e _ _ l a _ e
+22/08/2023 18:59:39 - __main__ - INFO - Correct guess!
+22/08/2023 18:59:39 - __main__ - INFO - Attempts left: 11
+22/08/2023 18:59:39 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:59:39 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:39 - __main__ - INFO - Attempts left: 10
+22/08/2023 18:59:39 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:59:39 - __main__ - INFO - Incorrect guess.
+22/08/2023 18:59:39 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:59:39 - __main__ - INFO - t e _ _ l a t e
+22/08/2023 18:59:41 - __main__ - INFO - Congratulations! You guessed the word correctly
+22/08/2023 18:59:41 - __main__ - INFO - Attempts left: 9
+22/08/2023 18:59:41 - __main__ - INFO - t e m p l a t e
+22/08/2023 18:59:41 - __main__ - INFO - Number of correct guesses: 6
+22/08/2023 18:59:41 - __main__ - INFO - Number of incorrect guesses: 11
+22/08/2023 18:59:41 - __main__ - INFO - Number of guesses left: 9
+22/08/2023 18:59:41 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, q, w, r, y, u
+22/08/2023 19:00:39 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:39 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:00:39 - __main__ - INFO - _ _ _ _ _ _ _ _ a _ _
+22/08/2023 19:00:40 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:40 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:00:40 - __main__ - INFO - _ _ _ _ _ _ _ _ a _ d
+22/08/2023 19:00:40 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:40 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:00:40 - __main__ - INFO - _ _ _ _ _ _ _ _ a _ d
+22/08/2023 19:00:40 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:40 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:00:40 - __main__ - INFO - _ _ _ _ _ _ _ _ a _ d
+22/08/2023 19:00:41 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:41 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:00:41 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:41 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:41 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:00:41 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:41 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:41 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:00:41 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:41 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:41 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:00:41 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:42 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:42 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:00:42 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:42 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:42 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:00:42 - __main__ - INFO - _ _ _ h _ _ _ _ a _ d
+22/08/2023 19:00:42 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:42 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:00:42 - __main__ - INFO - _ _ _ h e _ _ _ a _ d
+22/08/2023 19:00:43 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:43 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:00:43 - __main__ - INFO - _ _ _ h e r _ _ a r d
+22/08/2023 19:00:43 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:43 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:00:43 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:43 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:00:43 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:43 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:00:43 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:43 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:00:43 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:44 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:44 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:00:44 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:45 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:00:45 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:45 - __main__ - INFO - Attempts left: 7
+22/08/2023 19:00:45 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:45 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:00:45 - __main__ - INFO - _ _ t h e r _ _ a r d
+22/08/2023 19:00:46 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:46 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:00:46 - __main__ - INFO - _ _ t h e r b _ a r d
+22/08/2023 19:00:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:00:46 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:00:46 - __main__ - INFO - _ _ t h e r b _ a r d
+22/08/2023 19:00:46 - __main__ - INFO - Correct guess!
+22/08/2023 19:00:46 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:00:46 - __main__ - INFO - m _ t h e r b _ a r d
+22/08/2023 19:00:51 - __main__ - INFO - Congratulations! You guessed the word correctly
+22/08/2023 19:00:51 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:00:51 - __main__ - INFO - m o t h e r b o a r d
+22/08/2023 19:00:51 - __main__ - INFO - Number of correct guesses: 9
+22/08/2023 19:00:51 - __main__ - INFO - Number of incorrect guesses: 15
+22/08/2023 19:00:51 - __main__ - INFO - Number of guesses left: 5
+22/08/2023 19:00:51 - __main__ - INFO - Incorrect guessed letters: f, g, j, k, l, q, w, y, u, i, z, x, c, v, n
+22/08/2023 19:01:18 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:18 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:01:18 - __main__ - INFO - _ a _ a _ _ _ _ _ _
+22/08/2023 19:01:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:18 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:01:18 - __main__ - INFO - _ a _ a _ _ _ _ _ _
+22/08/2023 19:01:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:19 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:01:19 - __main__ - INFO - _ a _ a _ _ _ _ _ _
+22/08/2023 19:01:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:19 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:01:19 - __main__ - INFO - _ a _ a _ _ _ _ _ _
+22/08/2023 19:01:19 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:19 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:01:19 - __main__ - INFO - _ a _ a _ _ _ _ _ _
+22/08/2023 19:01:20 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:20 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:01:20 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:20 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:01:20 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:20 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:20 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:01:20 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:21 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:01:21 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:21 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:01:21 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:21 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:21 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:01:21 - __main__ - INFO - j a _ a _ _ _ _ _ _
+22/08/2023 19:01:22 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:22 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:01:22 - __main__ - INFO - j a _ a _ _ r _ _ _
+22/08/2023 19:01:22 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:22 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:01:22 - __main__ - INFO - j a _ a _ _ r _ _ t
+22/08/2023 19:01:22 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:22 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:01:22 - __main__ - INFO - j a _ a _ _ r _ _ t
+22/08/2023 19:01:22 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:22 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:01:22 - __main__ - INFO - j a _ a _ _ r _ _ t
+22/08/2023 19:01:23 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:23 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:01:23 - __main__ - INFO - j a _ a _ _ r i _ t
+22/08/2023 19:01:23 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:01:23 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:01:23 - __main__ - INFO - j a _ a _ _ r i _ t
+22/08/2023 19:01:23 - __main__ - INFO - Correct guess!
+22/08/2023 19:01:23 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:01:23 - __main__ - INFO - j a _ a _ _ r i p t
+22/08/2023 19:01:28 - __main__ - INFO - Congratulations! You guessed the word correctly
+22/08/2023 19:01:28 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:01:28 - __main__ - INFO - j a v a s c r i p t
+22/08/2023 19:01:28 - __main__ - INFO - Number of correct guesses: 9
+22/08/2023 19:01:28 - __main__ - INFO - Number of incorrect guesses: 12
+22/08/2023 19:01:28 - __main__ - INFO - Number of guesses left: 8
+22/08/2023 19:01:28 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, k, l, q, w, e, y, u, o
+22/08/2023 19:02:53 - __main__ - INFO - Correct guess!
+22/08/2023 19:02:53 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:02:53 - __main__ - INFO - _ _ _ _ _ a _ _
+22/08/2023 19:02:53 - __main__ - INFO - Correct guess!
+22/08/2023 19:02:53 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:02:53 - __main__ - INFO - _ _ _ _ _ a _ d
+22/08/2023 19:02:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:53 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:02:53 - __main__ - INFO - _ _ _ _ _ a _ d
+22/08/2023 19:02:53 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:53 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:02:53 - __main__ - INFO - _ _ _ _ _ a _ d
+22/08/2023 19:02:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:54 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:02:54 - __main__ - INFO - _ _ _ _ _ a _ d
+22/08/2023 19:02:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:54 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:02:54 - __main__ - INFO - _ _ _ _ _ a _ d
+22/08/2023 19:02:54 - __main__ - INFO - Correct guess!
+22/08/2023 19:02:54 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:02:54 - __main__ - INFO - k _ _ _ _ a _ d
+22/08/2023 19:02:54 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:54 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:02:54 - __main__ - INFO - k _ _ _ _ a _ d
+22/08/2023 19:02:55 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:55 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:02:55 - __main__ - INFO - k _ _ _ _ a _ d
+22/08/2023 19:02:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:02:56 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:02:56 - __main__ - INFO - k _ _ _ _ a _ d
+22/08/2023 19:02:58 - __main__ - INFO - Congratulations! You guessed the word correctly
+22/08/2023 19:02:58 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:02:58 - __main__ - INFO - k e y b o a r d
+22/08/2023 19:02:58 - __main__ - INFO - Number of correct guesses: 8
+22/08/2023 19:02:58 - __main__ - INFO - Number of incorrect guesses: 7
+22/08/2023 19:02:58 - __main__ - INFO - Number of guesses left: 13
+22/08/2023 19:02:58 - __main__ - INFO - Incorrect guessed letters: f, g, h, j, l, q, w
+22/08/2023 19:04:09 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:09 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:04:09 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:10 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:04:10 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:10 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:04:10 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:10 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:04:10 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:11 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:04:11 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:11 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:04:11 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:11 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:04:11 - __main__ - INFO - _ a _ _ _ _
+22/08/2023 19:04:12 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:12 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:04:12 - __main__ - INFO - _ a _ l _ _
+22/08/2023 19:04:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:12 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:04:12 - __main__ - INFO - _ a _ l _ _
+22/08/2023 19:04:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:13 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:04:13 - __main__ - INFO - _ a _ l _ _
+22/08/2023 19:04:13 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:13 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:04:13 - __main__ - INFO - _ a _ l e _
+22/08/2023 19:04:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:13 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:04:13 - __main__ - INFO - _ a _ l e _
+22/08/2023 19:04:13 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:13 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:04:13 - __main__ - INFO - t a _ l e t
+22/08/2023 19:04:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:14 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:04:14 - __main__ - INFO - t a _ l e t
+22/08/2023 19:04:17 - __main__ - INFO - Congratulations! You guessed the word correctly The word was tablet
+22/08/2023 19:04:17 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:04:17 - __main__ - INFO - t a b l e t
+22/08/2023 19:04:17 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 19:04:17 - __main__ - INFO - Number of incorrect guesses: 10
+22/08/2023 19:04:17 - __main__ - INFO - Number of guesses left: 10
+22/08/2023 19:04:17 - __main__ - INFO - Incorrect guessed letters: d, f, g, h, j, k, q, w, r, y
+22/08/2023 19:04:55 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:55 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:04:55 - __main__ - INFO - _ _ _ _ a _ _
+22/08/2023 19:04:55 - __main__ - INFO - Correct guess!
+22/08/2023 19:04:55 - __main__ - INFO - Attempts left: 20
+22/08/2023 19:04:55 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:56 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:04:56 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:56 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:04:56 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:56 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:04:56 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:56 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:56 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:04:56 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:57 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:57 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:04:57 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:57 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:57 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:04:57 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:57 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:57 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:04:57 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:58 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:04:58 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:58 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:04:58 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:58 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:04:58 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:58 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:58 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:04:58 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:59 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:59 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:04:59 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:04:59 - __main__ - INFO - Invalid input. Please try again.
+22/08/2023 19:04:59 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:04:59 - __main__ - INFO - Attempts left: 7
+22/08/2023 19:05:00 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:05:00 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:00 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:05:00 - __main__ - INFO - _ _ _ _ a _ d
+22/08/2023 19:05:00 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:00 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:05:00 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 19:05:02 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:02 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:05:02 - __main__ - INFO - _ o _ _ a _ d
+22/08/2023 19:05:02 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:02 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:05:02 - __main__ - INFO - c o _ _ a _ d
+22/08/2023 19:05:03 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:06 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:06 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:05:06 - __main__ - INFO - c o m m a _ d
+22/08/2023 19:05:06 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:06 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:05:06 - __main__ - INFO - c o m m a n d
+22/08/2023 19:05:06 - __main__ - INFO - Number of correct guesses: 6
+22/08/2023 19:05:06 - __main__ - INFO - Number of incorrect guesses: 15
+22/08/2023 19:05:06 - __main__ - INFO - Number of guesses left: 5
+22/08/2023 19:05:06 - __main__ - INFO - Incorrect guessed letters: f, g, h, j, k, l, q, w, e, r, t, y, u, i, z
+22/08/2023 19:05:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:10 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:05:10 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:10 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:10 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:05:10 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:11 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:05:11 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:11 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:05:11 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:11 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:11 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:05:11 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:12 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:05:12 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:12 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:05:12 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:12 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:12 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:05:12 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:13 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:05:13 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 19:05:13 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:13 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:05:13 - __main__ - INFO - _ _ _ _ e _
+22/08/2023 19:05:13 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:13 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:05:13 - __main__ - INFO - _ _ _ _ e _
+22/08/2023 19:05:13 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:13 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:05:13 - __main__ - INFO - _ _ _ t e _
+22/08/2023 19:05:14 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:14 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:05:14 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:14 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:05:14 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:14 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:14 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:05:14 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:15 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:15 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:15 - __main__ - INFO - Attempts left: 7
+22/08/2023 19:05:15 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:16 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:05:16 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:16 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:16 - __main__ - INFO - Attempts left: 5
+22/08/2023 19:05:16 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:17 - __main__ - INFO - Attempts left: 4
+22/08/2023 19:05:17 - __main__ - INFO - _ y _ t e _
+22/08/2023 19:05:17 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:17 - __main__ - INFO - Attempts left: 4
+22/08/2023 19:05:17 - __main__ - INFO - _ y _ t e m
+22/08/2023 19:05:17 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:17 - __main__ - INFO - Attempts left: 3
+22/08/2023 19:05:17 - __main__ - INFO - _ y _ t e m
+22/08/2023 19:05:21 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:22 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:22 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:24 - __main__ - INFO - Invalid input. Please try again.
+22/08/2023 19:05:25 - __main__ - INFO - Invalid input. Please try again.
+22/08/2023 19:05:25 - __main__ - INFO - Invalid input. Please try again.
+22/08/2023 19:05:26 - __main__ - INFO - Invalid input. Please try again.
+22/08/2023 19:05:26 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:27 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:27 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:27 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:28 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:28 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:28 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:28 - __main__ - INFO - Attempts left: 2
+22/08/2023 19:05:28 - __main__ - INFO - _ y _ t e m
+22/08/2023 19:05:32 - __main__ - INFO - Congratulations! You guessed the word correctly The word was system
+22/08/2023 19:05:32 - __main__ - INFO - Attempts left: 2
+22/08/2023 19:05:32 - __main__ - INFO - s y s t e m
+22/08/2023 19:05:32 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 19:05:32 - __main__ - INFO - Number of incorrect guesses: 18
+22/08/2023 19:05:32 - __main__ - INFO - Number of guesses left: 2
+22/08/2023 19:05:32 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, r, u, i, b, z, x, c, n, o
+22/08/2023 19:05:42 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:42 - __main__ - INFO - Attempts left: 19
+22/08/2023 19:05:42 - __main__ - INFO - _ _ _ _ _
+22/08/2023 19:05:43 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:43 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:05:43 - __main__ - INFO - _ _ _ _ _
+22/08/2023 19:05:44 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:44 - __main__ - INFO - Attempts left: 18
+22/08/2023 19:05:44 - __main__ - INFO - _ _ _ _ d
+22/08/2023 19:05:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:45 - __main__ - INFO - Attempts left: 17
+22/08/2023 19:05:45 - __main__ - INFO - _ _ _ _ d
+22/08/2023 19:05:45 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 19:05:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:45 - __main__ - INFO - Attempts left: 16
+22/08/2023 19:05:45 - __main__ - INFO - _ _ _ _ d
+22/08/2023 19:05:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:45 - __main__ - INFO - Attempts left: 15
+22/08/2023 19:05:45 - __main__ - INFO - _ _ _ _ d
+22/08/2023 19:05:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:46 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:05:46 - __main__ - INFO - _ _ _ _ d
+22/08/2023 19:05:46 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:46 - __main__ - INFO - Attempts left: 14
+22/08/2023 19:05:46 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:46 - __main__ - INFO - Attempts left: 13
+22/08/2023 19:05:46 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:47 - __main__ - INFO - Attempts left: 12
+22/08/2023 19:05:47 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:47 - __main__ - INFO - Attempts left: 11
+22/08/2023 19:05:47 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:47 - __main__ - INFO - Attempts left: 10
+22/08/2023 19:05:47 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:47 - __main__ - INFO - Attempts left: 9
+22/08/2023 19:05:47 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:48 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:05:48 - __main__ - INFO - _ l _ _ d
+22/08/2023 19:05:48 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:48 - __main__ - INFO - Attempts left: 8
+22/08/2023 19:05:48 - __main__ - INFO - _ l _ u d
+22/08/2023 19:05:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:48 - __main__ - INFO - Attempts left: 7
+22/08/2023 19:05:48 - __main__ - INFO - _ l _ u d
+22/08/2023 19:05:49 - __main__ - INFO - Correct guess!
+22/08/2023 19:05:49 - __main__ - INFO - Attempts left: 7
+22/08/2023 19:05:49 - __main__ - INFO - _ l o u d
+22/08/2023 19:05:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 19:05:49 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:05:49 - __main__ - INFO - _ l o u d
+22/08/2023 19:05:52 - __main__ - INFO - Congratulations! You guessed the word correctly! The word was cloud
+22/08/2023 19:05:52 - __main__ - INFO - Attempts left: 6
+22/08/2023 19:05:52 - __main__ - INFO - c l o u d
+22/08/2023 19:05:52 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 19:05:52 - __main__ - INFO - Number of incorrect guesses: 14
+22/08/2023 19:05:52 - __main__ - INFO - Number of guesses left: 6
+22/08/2023 19:05:52 - __main__ - INFO - Incorrect guessed letters: g, a, f, h, j, k, q, w, e, r, t, y, i, p
+22/08/2023 20:00:18 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:18 - __main__ - INFO - Attempts left: 19
+22/08/2023 20:00:18 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:25 - __main__ - INFO - Attempts left: 18
+22/08/2023 20:00:25 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:25 - __main__ - INFO - Attempts left: 17
+22/08/2023 20:00:25 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:25 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:25 - __main__ - INFO - Attempts left: 16
+22/08/2023 20:00:25 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:26 - __main__ - INFO - Attempts left: 15
+22/08/2023 20:00:26 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:26 - __main__ - INFO - Attempts left: 14
+22/08/2023 20:00:26 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:26 - __main__ - INFO - Attempts left: 13
+22/08/2023 20:00:26 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:26 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:26 - __main__ - INFO - Attempts left: 12
+22/08/2023 20:00:26 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:27 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 20:00:28 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:28 - __main__ - INFO - Attempts left: 11
+22/08/2023 20:00:28 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:28 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:28 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:00:28 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:00:28 - __main__ - INFO - Correct guess!
+22/08/2023 20:00:28 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:00:28 - __main__ - INFO - _ _ r _ _
+22/08/2023 20:00:29 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:29 - __main__ - INFO - Attempts left: 9
+22/08/2023 20:00:29 - __main__ - INFO - _ _ r _ _
+22/08/2023 20:00:29 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:29 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:00:29 - __main__ - INFO - _ _ r _ _
+22/08/2023 20:00:29 - __main__ - INFO - Correct guess!
+22/08/2023 20:00:29 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:00:29 - __main__ - INFO - _ _ r u _
+22/08/2023 20:00:29 - __main__ - INFO - Correct guess!
+22/08/2023 20:00:29 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:00:29 - __main__ - INFO - _ i r u _
+22/08/2023 20:00:30 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:30 - __main__ - INFO - Attempts left: 7
+22/08/2023 20:00:30 - __main__ - INFO - _ i r u _
+22/08/2023 20:00:31 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:00:31 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:00:31 - __main__ - INFO - _ i r u _
+22/08/2023 20:00:31 - __main__ - INFO - Correct guess!
+22/08/2023 20:00:31 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:00:31 - __main__ - INFO - _ i r u s
+22/08/2023 20:00:31 - __main__ - INFO - You already guessed this letter. Please try again.
+22/08/2023 20:00:32 - __main__ - INFO - Correct guess!
+22/08/2023 20:00:32 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:00:32 - __main__ - INFO - v i r u s
+22/08/2023 20:00:32 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 20:00:32 - __main__ - INFO - Number of incorrect guesses: 14
+22/08/2023 20:00:32 - __main__ - INFO - Number of guesses left: 6
+22/08/2023 20:00:32 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, e, t, y, o, z
+22/08/2023 20:07:34 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:34 - __main__ - INFO - Attempts left: 19
+22/08/2023 20:07:34 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:35 - __main__ - INFO - Attempts left: 18
+22/08/2023 20:07:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:35 - __main__ - INFO - Attempts left: 17
+22/08/2023 20:07:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:35 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:35 - __main__ - INFO - Attempts left: 16
+22/08/2023 20:07:35 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:36 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:36 - __main__ - INFO - Attempts left: 15
+22/08/2023 20:07:36 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:37 - __main__ - INFO - Attempts left: 14
+22/08/2023 20:07:37 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:37 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:37 - __main__ - INFO - Attempts left: 13
+22/08/2023 20:07:37 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:38 - __main__ - INFO - Attempts left: 12
+22/08/2023 20:07:38 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:38 - __main__ - INFO - Attempts left: 11
+22/08/2023 20:07:38 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:38 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:38 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:07:38 - __main__ - INFO - _ _ _ _ _ _
+22/08/2023 20:07:39 - __main__ - INFO - Correct guess!
+22/08/2023 20:07:39 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:07:39 - __main__ - INFO - _ e _ _ _ _
+22/08/2023 20:07:39 - __main__ - INFO - Correct guess!
+22/08/2023 20:07:39 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:07:39 - __main__ - INFO - _ e _ _ r _
+22/08/2023 20:07:39 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:39 - __main__ - INFO - Attempts left: 9
+22/08/2023 20:07:39 - __main__ - INFO - _ e _ _ r _
+22/08/2023 20:07:39 - __main__ - INFO - Correct guess!
+22/08/2023 20:07:39 - __main__ - INFO - Attempts left: 9
+22/08/2023 20:07:39 - __main__ - INFO - _ e _ _ r y
+22/08/2023 20:07:40 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:40 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:07:40 - __main__ - INFO - _ e _ _ r y
+22/08/2023 20:07:40 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:40 - __main__ - INFO - Attempts left: 7
+22/08/2023 20:07:40 - __main__ - INFO - _ e _ _ r y
+22/08/2023 20:07:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:07:46 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:07:46 - __main__ - INFO - _ e _ _ r y
+22/08/2023 20:07:50 - __main__ - INFO - Correct guess!
+22/08/2023 20:07:50 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:07:50 - __main__ - INFO - m e m _ r y
+22/08/2023 20:07:53 - __main__ - INFO - Congratulations! You guessed the word correctly! The word was memory
+22/08/2023 20:07:53 - __main__ - INFO - Attempts left: 6
+22/08/2023 20:07:53 - __main__ - INFO - m e m o r y
+22/08/2023 20:07:53 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 20:07:53 - __main__ - INFO - Number of incorrect guesses: 14
+22/08/2023 20:07:53 - __main__ - INFO - Number of guesses left: 6
+22/08/2023 20:07:53 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, w, t, u, i, q
+22/08/2023 20:08:45 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:45 - __main__ - INFO - Attempts left: 19
+22/08/2023 20:08:45 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:46 - __main__ - INFO - Attempts left: 18
+22/08/2023 20:08:46 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:46 - __main__ - INFO - Attempts left: 17
+22/08/2023 20:08:46 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:46 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:46 - __main__ - INFO - Attempts left: 16
+22/08/2023 20:08:46 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:47 - __main__ - INFO - Attempts left: 15
+22/08/2023 20:08:47 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:47 - __main__ - INFO - Attempts left: 14
+22/08/2023 20:08:47 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:47 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:47 - __main__ - INFO - Attempts left: 13
+22/08/2023 20:08:47 - __main__ - INFO - _ _ _ _ _
+22/08/2023 20:08:47 - __main__ - INFO - Correct guess!
+22/08/2023 20:08:47 - __main__ - INFO - Attempts left: 13
+22/08/2023 20:08:47 - __main__ - INFO - _ _ _ _ l
+22/08/2023 20:08:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:48 - __main__ - INFO - Attempts left: 12
+22/08/2023 20:08:48 - __main__ - INFO - _ _ _ _ l
+22/08/2023 20:08:48 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:48 - __main__ - INFO - Attempts left: 11
+22/08/2023 20:08:48 - __main__ - INFO - _ _ _ _ l
+22/08/2023 20:08:48 - __main__ - INFO - Correct guess!
+22/08/2023 20:08:48 - __main__ - INFO - Attempts left: 11
+22/08/2023 20:08:48 - __main__ - INFO - _ _ _ e l
+22/08/2023 20:08:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:49 - __main__ - INFO - Attempts left: 10
+22/08/2023 20:08:49 - __main__ - INFO - _ _ _ e l
+22/08/2023 20:08:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:49 - __main__ - INFO - Attempts left: 9
+22/08/2023 20:08:49 - __main__ - INFO - _ _ _ e l
+22/08/2023 20:08:49 - __main__ - INFO - Incorrect guess.
+22/08/2023 20:08:49 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:08:49 - __main__ - INFO - _ _ _ e l
+22/08/2023 20:08:50 - __main__ - INFO - Correct guess!
+22/08/2023 20:08:50 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:08:50 - __main__ - INFO - p _ _ e l
+22/08/2023 20:08:51 - __main__ - INFO - Correct guess!
+22/08/2023 20:08:51 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:08:51 - __main__ - INFO - p i _ e l
+22/08/2023 20:08:52 - __main__ - INFO - Correct guess!
+22/08/2023 20:08:52 - __main__ - INFO - Attempts left: 8
+22/08/2023 20:08:52 - __main__ - INFO - p i x e l
+22/08/2023 20:08:52 - __main__ - INFO - Number of correct guesses: 5
+22/08/2023 20:08:52 - __main__ - INFO - Number of incorrect guesses: 12
+22/08/2023 20:08:52 - __main__ - INFO - Number of guesses left: 8
+22/08/2023 20:08:52 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, r, t, y

@@ -5,7 +5,6 @@ from typing import List, Dict
 from visualisation import hangman_stages
 from words import words_list
 
-
 MAX_ATTEMPTS = 20
 
 logging.basicConfig(level=logging.DEBUG, filename='hangman_data.log', filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')

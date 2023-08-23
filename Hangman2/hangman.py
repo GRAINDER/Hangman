@@ -12,11 +12,10 @@ logger = logging.getLogger(__name__)
 
 
 
-
 class Hangman: 
     """Attributes of the Hangman class"""
     def __init__(self):
-        self.word_to_guess = "" # when game starts and new random word is genereated that word is bind to this variable. In the beginning it's empty string
+        # self.word_to_guess = "" # when game starts and new random word is genereated that word is bind to this variable. In the beginning it's empty string
         self.guessed_letters: Dict[str, bool] = {} # dictionary for guessed letter. Key is a letter, value is True/False if letter is correct or incorrect
         self.attempts = MAX_ATTEMPTS # number of attempts. Defined as 20 in start of code
         self.incorrect_guesses: List[str] = [] # list of incorrect guessed letters using for final result printing
@@ -120,21 +119,39 @@ class Player:
         self.email = ""
 
     def get_player_name(self):
-        self.name = input("Enter your name: ")
-        self.surname = input("Enter your surname: ")
-        self.email = input("Enter your email: ")
+        """Get all information about player, name, surname and email are mandator"""
 
+        while not self.name.strip():  # Loop until a non-empty name is provided
+            self.name = input("Enter your name: ").strip() #strip() removing any free space if user put space 
+            if not self.name.strip():
+                print("Please enter your name")
+                logger.info("Name was not entered")
+
+        while not self.surname.strip():  # Loop until a non-empty surname is provided
+            self.surname = input("Enter your surname: ").strip()
+            if not self.surname.strip():
+                print("Please enter your surname")
+                logger.info("Surname was not entered")
+
+        while not self.email.strip() or not self.email.count('@') or not self.email.count('.'):  # Loop until a non-empty and valid email is provided
+            self.email = input("Enter your email: ").strip()
+            if not self.email.strip():
+                print("Please enter your email")
+                logger.info("email was not entered")
 
 class HangmanGame(Hangman, Player):
     def __init__(self):
         super().__init__()
+        self.name = ""       # Initialize name attribute
+        self.surname = ""    # Initialize surname attribute
+        self.email = ""      # Initialize email attribute
         self.get_player_name()
         self.player_id = None
         self.initialize_database()
 
     def initialize_database(self):
-        conn = sqlite3.connect("hangman.db")
-        c = conn.cursor()
+        conn = sqlite3.connect("hangman.db")  # Create connection for hangman.db
+        c = conn.cursor() # cursor used to execute SQL commands and retrieve data from the database.
 
         # Create players table for database
         c.execute('''create table if not exists players (
@@ -146,7 +163,7 @@ class HangmanGame(Hangman, Player):
 
         # Create game_results table for database
         c.execute('''create table if not exists game_results (
-                    id INTEGER PRIMARY KEY,
+                    id integer PRIMARY KEY,
                     player_id integer,
                     correct_guesses integer,
                     incorrect_guesses integer,
@@ -160,9 +177,19 @@ class HangmanGame(Hangman, Player):
         conn = sqlite3.connect("hangman.db")
         c = conn.cursor()
 
-        c.execute("INSERT INTO players (name, surname, email) VALUES (?, ?, ?)",
-                  (self.name, self.surname, self.email))
-        self.player_id = c.lastrowid
+        # Checking if the player already exists in the database or not
+        c.execute("SELECT id FROM players WHERE name = ? AND surname = ? AND email = ?",
+                (self.name, self.surname, self.email)) # replacing "?" placeholders in query for checking player name
+        existing_player = c.fetchone() #retrieves the result of the SQL query executed in the previous line
+
+        if existing_player:
+            self.player_id = existing_player[0]
+            print("Welcome back! Your existing player ID:", self.player_id)
+        else:
+            c.execute("INSERT INTO players (name, surname, email) VALUES (?, ?, ?)",
+                    (self.name, self.surname, self.email))
+            self.player_id = c.lastrowid
+            print("New player created! Your player ID:", self.player_id)
 
         conn.commit()
         conn.close()
@@ -171,9 +198,9 @@ class HangmanGame(Hangman, Player):
     def play(self):
         self.create_player_record()
 
-        while True:  # Add a loop for playing multiple games
+        while True:  # This loop helps to reset gmae if player want to play again, and then all settings are same as in beggining.
             self.attempts = MAX_ATTEMPTS
-            self.word_to_guess = ""
+            # self.word_to_guess = ""
             self.guessed_letters = {}
             self.incorrect_guesses = []
 
@@ -203,9 +230,15 @@ class HangmanGame(Hangman, Player):
                 
             self.save_game_result(game_result)
             
-            play_again = input("Do you want to play again? (yes/no): ").lower()
-            if play_again != "yes":
-                break  # Exit the loop if the player doesn't want to play again
+            while True:
+                play_again = input("Do you want to play again? (yes/no): ").lower()
+                if play_again == "yes":
+                    break  # Continue the loop and play again. Stop this loop and goes to previous loop
+                elif play_again == "no":
+                    print("Thanks for playing! Goodbye.")
+                    return  #Stops and exit play() function and end the program
+                else:
+                    print("Incorrect input. You must enter 'yes' or 'no'.")
 
     def save_game_result(self, game_result):
         conn = sqlite3.connect("hangman.db")
@@ -224,4 +257,5 @@ if __name__ == "__main__":
         hangman_game.play()
 
     except KeyboardInterrupt:
-        logger
+        logger.info("Hangman game was interrupted by the user.")
+        print("\nHangman game was interrupted by the user.")

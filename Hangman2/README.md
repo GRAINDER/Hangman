@@ -63,10 +63,10 @@ python hangman.py
 The Hangman game is written in Python and uses built-in modules. No external packages are required.
 Customization
 
-You can customize the game by adding more words to the WORD_LIST in the hangman.py file or adjusting the maximum number of attempts by modifying the max_attempts variable.
+You can customize the game by adding more words to the WORD_LIST in the hangman.py file or adjusting the maximum number of attempts by modifying the MAX_ATTEMPTS variable.
 
 Feel free to explore and modify the code to add new features or improve the user interface.
 
-Have fun playing Hangman! Enjoy guessing the words and saving the hangman from being fully drawn! 🎉
+Have fun playing Hangman! Enjoy guessing the words and saving the hangman from being fully drawn!
 
 Note: The above README provides a detailed overview of the Hangman game, including its rules, gameplay, setup instructions, requirements, and customization options. You can further enhance the README by adding images or GIFs to showcase the gameplay or any other relevant information to make it more appealing to potential users.

@@ -61,7 +61,8 @@ python hangman.py
 # Requirements
 
 The Hangman game is written in Python and uses built-in modules. No external packages are required.
-Customization
+
+# Customization
 
 You can customize the game by adding more words to the WORD_LIST in the hangman.py file or adjusting the maximum number of attempts by modifying the MAX_ATTEMPTS variable.
 

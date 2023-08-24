@@ -25,24 +25,275 @@ and for each incorrect guess, a part of the hangman is drawn on the gallows. The
 
 # Example Gameplay
 
+Enter your name: John
+Enter your surname: Johnson
+Enter your email: jj@hotmail.com
+Welcome back! Your existing player ID: 47
 Welcome to Hangman!
-
-Word to guess: _ _ _ _ _ _
-
-Guess a letter or the entire word: e
-Incorrect guess. Attempts left: 19
-Word to guess: _ _ _ _ _ _
-
+_ _ _ _ _ _ _
 Guess a letter or the entire word: a
-Correct guess! Attempts left: 19
-Word to guess: _ _ _ a _ _
+Incorrect guess.
+Attempts left: 19
 
+           ________
+          |/   |   |
+          |
+          |
+          |
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: d
+Incorrect guess.
+Attempts left: 18
+
+           ________
+          |/   |   |
+          |  (   )
+          |
+          |
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: f
+Incorrect guess.
+Attempts left: 17
+
+           ________
+          |/   |   |
+          |  ( _ )
+          |
+          |
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: g
+Incorrect guess.
+Attempts left: 16
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |
+          |
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: h
+Incorrect guess.
+Attempts left: 15
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    |
+          |
+          |
+          |
+         _|_
+
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: j
+Incorrect guess.
+Attempts left: 14
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    |
+          |    |
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: k
+Incorrect guess.
+Attempts left: 13
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    |
+          |    |/
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: l
+Incorrect guess.
+Attempts left: 12
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /
+          |    |/
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: q
+Incorrect guess.
+Attempts left: 11
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /
+          |    |/
+          |
+          |
+         _|_
+
+
+_ _ _ _ _ _ _
+Guess a letter or the entire word: w
+Correct guess!
+Attempts left: 11
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /
+          |    |/
+          |
+          |
+         _|_
+
+
+w _ _ _ _ _ _
+Guess a letter or the entire word: e
+Correct guess!
+Attempts left: 11
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /
+          |    |/
+          |
+          |
+         _|_
+
+
+w e _ _ _ _ e
+Guess a letter or the entire word: r
+Incorrect guess.
+Attempts left: 10
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e _ _ _ _ e
+Guess a letter or the entire word: t
+Correct guess!
+Attempts left: 10
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |    | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e _ _ _ t e
+Guess a letter or the entire word: y
+Incorrect guess.
+Attempts left: 9
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |  \ | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e _ _ _ t e
+Guess a letter or the entire word: u
+Incorrect guess.
+Attempts left: 8
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |''\ | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e _ _ _ t e
 Guess a letter or the entire word: i
-Incorrect guess. Attempts left: 18
-Word to guess: _ _ _ a _ _
+Correct guess!
+Attempts left: 8
 
-Guess a letter or the entire word: programming
-Congratulations! You guessed the word correctly!
+           ________
+          |/   |   |
+          |  (*_*)
+          |''\ | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e _ _ i t e
+Guess a letter or the entire word: website
+Congratulations! You guessed the word correctly! The word was website
+Attempts left: 8
+
+           ________
+          |/   |   |
+          |  (*_*)
+          |''\ | /''
+          |   \|/
+          |
+          |
+         _|_
+
+
+w e b s i t e
+Games results:
+Number of correct guesses: 6
+Number of incorrect guesses: 12
+Number of guesses left: 8
+Incorrect guessed letters: a, d, f, g, h, j, k, l, q, r, y, u
+Do you want to play again? (yes/no): no
+Thanks for playing! Goodbye.
 
 
 # Setup

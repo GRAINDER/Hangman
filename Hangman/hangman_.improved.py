@@ -116,6 +116,8 @@ def end_the_game(word_to_guess, guessed_letters, incorrect_guesses):
     # print(num_correct_guesses)
     # print(incorrect_guesses)
     guesses_left = MAX_ATTEMPTS - len(incorrect_guesses)
+    print("Game results:")
+    
     print(f"Number of correct guesses: {num_correct_guesses}")
     print(f"Number of incorrect guesses: {len(incorrect_guesses)}")
     print(f"Number of guesses left: {guesses_left}")

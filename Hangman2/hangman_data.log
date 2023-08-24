@@ -7643,3 +7643,78 @@ TypeError: HangmanGame.home() missing 1 required positional argument: 'self'
 23/08/2023 20:53:28 - __main__ - INFO - Number of incorrect guesses: 13
 23/08/2023 20:53:28 - __main__ - INFO - Number of guesses left: 7
 23/08/2023 20:53:28 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, q, w, e, y, u, i
+24/08/2023 18:19:13 - __main__ - INFO - Hangman game was interrupted by the user.
+24/08/2023 18:19:28 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:28 - __main__ - INFO - Attempts left: 19
+24/08/2023 18:19:28 - __main__ - INFO - _ _ _ _ _ _ _ _
+24/08/2023 18:19:30 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:30 - __main__ - INFO - Attempts left: 18
+24/08/2023 18:19:30 - __main__ - INFO - _ _ _ _ _ _ _ _
+24/08/2023 18:19:33 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:33 - __main__ - INFO - Attempts left: 17
+24/08/2023 18:19:33 - __main__ - INFO - _ _ _ _ _ _ _ _
+24/08/2023 18:19:33 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:33 - __main__ - INFO - Attempts left: 16
+24/08/2023 18:19:33 - __main__ - INFO - _ _ _ _ _ _ _ _
+24/08/2023 18:19:33 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:33 - __main__ - INFO - Attempts left: 16
+24/08/2023 18:19:33 - __main__ - INFO - _ _ _ e _ _ e _
+24/08/2023 18:19:36 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:36 - __main__ - INFO - Attempts left: 16
+24/08/2023 18:19:36 - __main__ - INFO - _ _ _ e r _ e _
+24/08/2023 18:19:38 - __main__ - INFO - Hangman game was interrupted by the user.
+24/08/2023 18:19:50 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:50 - __main__ - INFO - Attempts left: 19
+24/08/2023 18:19:50 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:51 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:51 - __main__ - INFO - Attempts left: 18
+24/08/2023 18:19:51 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:52 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:52 - __main__ - INFO - Attempts left: 17
+24/08/2023 18:19:52 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:52 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:52 - __main__ - INFO - Attempts left: 16
+24/08/2023 18:19:52 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:53 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:53 - __main__ - INFO - Attempts left: 15
+24/08/2023 18:19:53 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:53 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:53 - __main__ - INFO - Attempts left: 14
+24/08/2023 18:19:53 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:53 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:53 - __main__ - INFO - Attempts left: 13
+24/08/2023 18:19:53 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:54 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:54 - __main__ - INFO - Attempts left: 12
+24/08/2023 18:19:54 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:55 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:55 - __main__ - INFO - Attempts left: 11
+24/08/2023 18:19:55 - __main__ - INFO - _ _ _ _ _ _ _
+24/08/2023 18:19:55 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:55 - __main__ - INFO - Attempts left: 11
+24/08/2023 18:19:55 - __main__ - INFO - w _ _ _ _ _ _
+24/08/2023 18:19:55 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:55 - __main__ - INFO - Attempts left: 11
+24/08/2023 18:19:55 - __main__ - INFO - w e _ _ _ _ e
+24/08/2023 18:19:56 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:56 - __main__ - INFO - Attempts left: 10
+24/08/2023 18:19:56 - __main__ - INFO - w e _ _ _ _ e
+24/08/2023 18:19:56 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:56 - __main__ - INFO - Attempts left: 10
+24/08/2023 18:19:56 - __main__ - INFO - w e _ _ _ t e
+24/08/2023 18:19:56 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:56 - __main__ - INFO - Attempts left: 9
+24/08/2023 18:19:56 - __main__ - INFO - w e _ _ _ t e
+24/08/2023 18:19:56 - __main__ - INFO - Incorrect guess.
+24/08/2023 18:19:56 - __main__ - INFO - Attempts left: 8
+24/08/2023 18:19:56 - __main__ - INFO - w e _ _ _ t e
+24/08/2023 18:19:56 - __main__ - INFO - Correct guess!
+24/08/2023 18:19:56 - __main__ - INFO - Attempts left: 8
+24/08/2023 18:19:56 - __main__ - INFO - w e _ _ i t e
+24/08/2023 18:19:58 - __main__ - INFO - Congratulations! You guessed the word correctly! The word was website
+24/08/2023 18:19:58 - __main__ - INFO - Attempts left: 8
+24/08/2023 18:19:58 - __main__ - INFO - w e b s i t e
+24/08/2023 18:19:58 - __main__ - INFO - Number of correct guesses: 6
+24/08/2023 18:19:58 - __main__ - INFO - Number of incorrect guesses: 12
+24/08/2023 18:19:58 - __main__ - INFO - Number of guesses left: 8
+24/08/2023 18:19:58 - __main__ - INFO - Incorrect guessed letters: a, d, f, g, h, j, k, l, q, r, y, u

@@ -3,3 +3,4 @@ __pycache__
 .venv
 hangman.db
 hangman_data.log
+tests/

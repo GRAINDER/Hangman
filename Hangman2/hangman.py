@@ -90,12 +90,12 @@ class Hangman:
         num_correct_guesses = sum(1 for letter in self.guessed_letters if letter in self.word_to_guess and self.guessed_letters[letter]) # if conditions are met comprehension returns sequence of correct guesses (1) and sum it
         guesses_left = MAX_ATTEMPTS - len(self.incorrect_guesses)
         print("Games results:")
+        logger.info("Games results: ")
 
         print(f"Number of correct guesses: {num_correct_guesses}")
         print(f"Number of incorrect guesses: {len(self.incorrect_guesses)}")
         print(f"Number of guesses left: {guesses_left}")
         print(f"Incorrect guessed letters: {', '.join(self.incorrect_guesses)}")
-
         logger.info(f"Number of correct guesses: {num_correct_guesses}")
         logger.info(f"Number of incorrect guesses: {len(self.incorrect_guesses)}")
         logger.info(f"Number of guesses left: {guesses_left}")

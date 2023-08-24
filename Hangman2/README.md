@@ -25,15 +25,15 @@ and for each incorrect guess, a part of the hangman is drawn on the gallows. The
 
 # Example Gameplay
 
-Enter your name: John
-Enter your surname: Johnson
-Enter your email: jj@hotmail.com
-Welcome back! Your existing player ID: 47
-Welcome to Hangman!
-_ _ _ _ _ _ _
-Guess a letter or the entire word: a
-Incorrect guess.
-Attempts left: 19
+Enter your name: John\
+Enter your surname: Johnson\
+Enter your email: jj@hotmail.com\
+Welcome back! Your existing player ID: 47\
+Welcome to Hangman!\
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: a\
+Incorrect guess.\
+Attempts left: 19\
 
            ________
           |/   |   |
@@ -45,10 +45,10 @@ Attempts left: 19
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: d
-Incorrect guess.
-Attempts left: 18
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: d\
+Incorrect guess.\
+Attempts left: 18\
 
            ________
           |/   |   |
@@ -60,10 +60,10 @@ Attempts left: 18
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: f
-Incorrect guess.
-Attempts left: 17
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: f\
+Incorrect guess.\
+Attempts left: 17\
 
            ________
           |/   |   |
@@ -75,10 +75,10 @@ Attempts left: 17
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: g
-Incorrect guess.
-Attempts left: 16
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: g\
+Incorrect guess.\
+Attempts left: 16\
 
            ________
           |/   |   |

@@ -293,7 +293,7 @@ Number of incorrect guesses: 12\
 Number of guesses left: 8\
 Incorrect guessed letters: a, d, f, g, h, j, k, l, q, r, y, u\
 Do you want to play again? (yes/no): no\
-Thanks for playing! Goodbye.\
+Thanks for playing! Goodbye.
 
 
 # Setup

@@ -33,7 +33,7 @@ Welcome to Hangman!\
 _ _ _ _ _ _ _\
 Guess a letter or the entire word: a\
 Incorrect guess.\
-Attempts left: 19\
+Attempts left: 19
 
            ________
           |/   |   |
@@ -48,7 +48,7 @@ Attempts left: 19\
 _ _ _ _ _ _ _\
 Guess a letter or the entire word: d\
 Incorrect guess.\
-Attempts left: 18\
+Attempts left: 18
 
            ________
           |/   |   |
@@ -63,7 +63,7 @@ Attempts left: 18\
 _ _ _ _ _ _ _\
 Guess a letter or the entire word: f\
 Incorrect guess.\
-Attempts left: 17\
+Attempts left: 17
 
            ________
           |/   |   |
@@ -78,7 +78,7 @@ Attempts left: 17\
 _ _ _ _ _ _ _\
 Guess a letter or the entire word: g\
 Incorrect guess.\
-Attempts left: 16\
+Attempts left: 16
 
            ________
           |/   |   |
@@ -90,9 +90,9 @@ Attempts left: 16\
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: h
-Incorrect guess.
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: h\
+Incorrect guess.\
 Attempts left: 15
 
            ________
@@ -106,9 +106,9 @@ Attempts left: 15
 
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: j
-Incorrect guess.
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: j\
+Incorrect guess.\
 Attempts left: 14
 
            ________
@@ -121,9 +121,9 @@ Attempts left: 14
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: k
-Incorrect guess.
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: k\
+Incorrect guess.\
 Attempts left: 13
 
            ________
@@ -136,9 +136,9 @@ Attempts left: 13
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: l
-Incorrect guess.
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: l\
+Incorrect guess.\
 Attempts left: 12
 
            ________
@@ -151,9 +151,9 @@ Attempts left: 12
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: q
-Incorrect guess.
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: q\
+Incorrect guess.\
 Attempts left: 11
 
            ________
@@ -166,9 +166,9 @@ Attempts left: 11
          _|_
 
 
-_ _ _ _ _ _ _
-Guess a letter or the entire word: w
-Correct guess!
+_ _ _ _ _ _ _\
+Guess a letter or the entire word: w\
+Correct guess!\
 Attempts left: 11
 
            ________
@@ -181,9 +181,9 @@ Attempts left: 11
          _|_
 
 
-w _ _ _ _ _ _
-Guess a letter or the entire word: e
-Correct guess!
+w _ _ _ _ _ _\
+Guess a letter or the entire word: e\
+Correct guess!\
 Attempts left: 11
 
            ________
@@ -196,9 +196,9 @@ Attempts left: 11
          _|_
 
 
-w e _ _ _ _ e
-Guess a letter or the entire word: r
-Incorrect guess.
+w e _ _ _ _ e\
+Guess a letter or the entire word: r\
+Incorrect guess.\
 Attempts left: 10
 
            ________
@@ -211,9 +211,9 @@ Attempts left: 10
          _|_
 
 
-w e _ _ _ _ e
-Guess a letter or the entire word: t
-Correct guess!
+w e _ _ _ _ e\
+Guess a letter or the entire word: t\
+Correct guess!\
 Attempts left: 10
 
            ________
@@ -226,9 +226,9 @@ Attempts left: 10
          _|_
 
 
-w e _ _ _ t e
-Guess a letter or the entire word: y
-Incorrect guess.
+w e _ _ _ t e\
+Guess a letter or the entire word: y\
+Incorrect guess.\
 Attempts left: 9
 
            ________
@@ -241,9 +241,9 @@ Attempts left: 9
          _|_
 
 
-w e _ _ _ t e
-Guess a letter or the entire word: u
-Incorrect guess.
+w e _ _ _ t e\
+Guess a letter or the entire word: u\
+Incorrect guess.\
 Attempts left: 8
 
            ________
@@ -256,9 +256,9 @@ Attempts left: 8
          _|_
 
 
-w e _ _ _ t e
-Guess a letter or the entire word: i
-Correct guess!
+w e _ _ _ t e\
+Guess a letter or the entire word: i\
+Correct guess!\
 Attempts left: 8
 
            ________
@@ -271,9 +271,9 @@ Attempts left: 8
          _|_
 
 
-w e _ _ i t e
-Guess a letter or the entire word: website
-Congratulations! You guessed the word correctly! The word was website
+w e _ _ i t e\
+Guess a letter or the entire word: website\
+Congratulations! You guessed the word correctly! The word was website\
 Attempts left: 8
 
            ________
@@ -286,14 +286,14 @@ Attempts left: 8
          _|_
 
 
-w e b s i t e
-Games results:
-Number of correct guesses: 6
-Number of incorrect guesses: 12
-Number of guesses left: 8
-Incorrect guessed letters: a, d, f, g, h, j, k, l, q, r, y, u
-Do you want to play again? (yes/no): no
-Thanks for playing! Goodbye.
+w e b s i t e\
+Games results:\
+Number of correct guesses: 6\
+Number of incorrect guesses: 12\
+Number of guesses left: 8\
+Incorrect guessed letters: a, d, f, g, h, j, k, l, q, r, y, u\
+Do you want to play again? (yes/no): no\
+Thanks for playing! Goodbye.\
 
 
 # Setup

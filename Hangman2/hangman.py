@@ -121,22 +121,22 @@ class Player:
     def get_player_name(self):
         """Get all information about player, name, surname and email are mandator"""
 
-        while not self.name.strip():  # Loop until a non-empty name is provided
+        while not self.name.strip().isalpha():  # Loop until a non-empty name is provided
             self.name = input("Enter your name: ").strip() #strip() removing any free space if user put space 
             if not self.name.strip():
-                print("Please enter your name")
+                print("Please enter your name: ")
                 logger.info("Name was not entered")
 
         while not self.surname.strip():  # Loop until a non-empty surname is provided
             self.surname = input("Enter your surname: ").strip()
             if not self.surname.strip():
-                print("Please enter your surname")
+                print("Please enter your surname: ")
                 logger.info("Surname was not entered")
 
         while not self.email.strip() or not self.email.count('@') or not self.email.count('.'):  # Loop until a non-empty and valid email is provided
             self.email = input("Enter your email: ").strip()
             if not self.email.strip():
-                print("Please enter your email")
+                print("Please enter your email: ")
                 logger.info("email was not entered")
 
 class HangmanGame(Hangman, Player):
@@ -228,7 +228,8 @@ class HangmanGame(Hangman, Player):
                 print(f"Game Over! You have exhausted all guesses. The correct word was '{self.word_to_guess}'.")
                 logger.info(f"Game Over! The word was '{self.word_to_guess}'.")
                 
-            self.save_game_result(game_result)
+
+            self.try_to_save_game_result(game_result)
             
             while True:
                 play_again = input("Do you want to play again? (yes/no): ").lower()
@@ -240,7 +241,19 @@ class HangmanGame(Hangman, Player):
                 else:
                     print("Incorrect input. You must enter 'yes' or 'no'.")
 
+    def try_to_save__results(self, game_result, name, surname, email):
+        try:
+            self.save_game_result(game_result)
+            self.create_player_record(name, surname, email)
+        except sqlite3.DatabaseError as e:
+            logger.error(e)
+            logger.error('Problem with connecting/writing to game result database.')
+        except Exception as e:
+            logger.error(e)
+            logger.error('Unxpected error when trying to connect/write to game result database.')
+
     def save_game_result(self, game_result):
+
         conn = sqlite3.connect("hangman.db")
         c = conn.cursor()
 
